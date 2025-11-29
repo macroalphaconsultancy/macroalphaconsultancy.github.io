@@ -1,20 +1,105 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Macro Alpha Consultancy (MAC)</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Macro Alpha Consultancy (MAC)</title>
+  <link rel="icon" href="assets/favicon.png">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<section class="hero">
-    <img src="logo.png" class="hero-logo" alt="MAC Logo">
-</section>
+  <nav class="nav">
+    <div class="nav-left"><img src="assets/logo.png" alt="MAC logo" class="nav-logo"><span class="nav-title">Macro Alpha Consultancy</span></div>
+    <div class="nav-right">
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#research">Research</a>
+      <a href="#founder">Founder</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
 
-<section class="content-section">
-<h1>About Us</h1>
-<p>Macro Alpha Consultancy (MAC) is a boutique macro-strategy and quantitative research practice delivering institutional-grade insights.</p>
-</section>
+  <header class="hero">
+    <div class="hero-inner">
+      <img src="assets/logo.png" alt="MAC logo" class="hero-logo">
+      <h1>Independent Macro &amp; Quantitative Research</h1>
+      <p class="tagline">Discretionary macro insight. Quantitative precision. Institutional-grade frameworks.</p>
+      <a href="#about" class="btn">Learn more</a>
+    </div>
+  </header>
 
+  <main>
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About Us</h2>
+        <p>Macro Alpha Consultancy (MAC) is a boutique macro-strategy and quantitative research practice delivering independent, institutional-grade insights across global markets. We combine fundamental discretionary macro analysis with systematic quantitative modelling to build frameworks suited for cross-regime, multi-asset environments.</p>
+      </div>
+    </section>
+
+    <section id="services" class="section alt">
+      <div class="container">
+        <h2>Services</h2>
+        <div class="grid">
+          <div class="card">
+            <h3>Macro Strategy &amp; Research</h3>
+            <p>Economic cycle mapping, yield-curve dynamics, monetary policy analysis and cross-asset risk signals.</p>
+          </div>
+          <div class="card">
+            <h3>Quantitative Research &amp; Systems</h3>
+            <p>Stat-arb, volatility modelling, backtesting architecture, and execution logic for mid/high-frequency systems.</p>
+          </div>
+          <div class="card">
+            <h3>Derivatives &amp; Volatility</h3>
+            <p>Options structuring, volatility surface interpretation, scenario analysis, and regime-aware strategies.</p>
+          </div>
+          <div class="card">
+            <h3>Multi-Asset Portfolio Strategy</h3>
+            <p>Allocation frameworks, systematic overlays, tactical positioning and blended discretionary + quantitative inputs.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="research" class="section">
+      <div class="container">
+        <h2>Research Notes</h2>
+        <p>Curated articles and notes. Click an item to open the original piece.</p>
+        <div id="research-grid" class="research-grid">
+          <!-- research items populated by script -->
+        </div>
+      </div>
+    </section>
+
+    <section id="founder" class="section alt">
+      <div class="container founder-grid">
+        <div class="founder-bio">
+          <h2>Founder</h2>
+          <h3>Ishrit Tewari</h3>
+          <p>Ishrit has worked across global proprietary trading firms and quantitative research teams, with experience in global rates, STIRs, Indian equity derivatives, systematic crypto trading, volatility modelling, and multi-asset macro strategy. His approach integrates macro intuition, quantitative discipline, and execution-aligned research.</p>
+        </div>
+        <div class="founder-contact">
+          <h3>Contact</h3>
+          <p>Email: <a href="mailto:ishrit.tewari@gmail.com">ishrit.tewari@gmail.com</a></p>
+          <p>LinkedIn: <a href="https://www.linkedin.com" target="_blank" rel="noopener">Your LinkedIn</a></p>
+          
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Get in touch</h2>
+        <p>For enquiries, consultancy or research collaboration, email: <a href="mailto:ishrit.tewari@gmail.com">ishrit.tewari@gmail.com</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Macro Alpha Consultancy (MAC)</p>
+    </div>
+  </footer>
+
+<script src="script.js"></script>
 </body>
 </html>
