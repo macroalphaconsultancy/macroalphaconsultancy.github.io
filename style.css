@@ -1,0 +1,4 @@
+body { margin:0; padding:0; background-color:#0D1B2A; color:white; font-family:Arial;}
+.hero {height:60vh; display:flex; align-items:center; justify-content:center;}
+.hero-logo {width:300px;}
+.content-section {max-width:900px; margin:auto; padding:20px;}
