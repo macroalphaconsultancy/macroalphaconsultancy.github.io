@@ -24,13 +24,22 @@ body{
 header{
   background:var(--ink);
   color:#fff;
-  padding:28px 24px 24px;
+  padding:18px 24px 20px;
   border-bottom:4px solid var(--accent);
 }
-header h1{margin:0;font-size:28px;font-weight:600}
-header p{margin-top:6px;font-size:13px;opacity:.75}
+header a{
+  color:#fff;
+  text-decoration:none;
+  font-size:13px;
+  opacity:.9;
+}
+header h1{
+  margin:8px 0 0;
+  font-size:26px;
+  font-weight:600;
+}
 .container{
-  max-width:1500px;
+  max-width:1600px;
   margin:0 auto;
   padding:28px 24px 40px;
 }
@@ -77,126 +86,93 @@ footer{
 <body>
 
 <header>
-<h1>Macro Alpha Consultancy</h1>
-<p>Global Macro Dashboard</p>
+  <a href="index.html">← Back to Macro Alpha Consultancy</a>
+  <h1>Macro Dashboard</h1>
 </header>
 
 <div class="container">
 
+<!-- GLOBAL MARKETS -->
 <div class="section">
-<div class="section-title">Global Market Snapshot</div>
+<div class="section-title">Global Markets</div>
 <div class="grid">
-<div class="card"><div class="label">S&P 500</div><div class="value" id="sp500">—</div></div>
-<div class="card"><div class="label">VIX</div><div class="value" id="vix">—</div></div>
-<div class="card"><div class="label">DXY</div><div class="value" id="dxy">—</div></div>
-<div class="card"><div class="label">USDJPY</div><div class="value" id="usdjpy">—</div></div>
+<div class="card"><div class="label">S&P 500</div><div class="value">—</div></div>
+<div class="card"><div class="label">VIX</div><div class="value">—</div></div>
+<div class="card"><div class="label">DXY</div><div class="value">—</div></div>
+<div class="card"><div class="label">USDJPY</div><div class="value">—</div></div>
 </div>
 </div>
 
+<!-- RATES -->
 <div class="section">
-<div class="section-title">Rates & Yield Curves</div>
+<div class="section-title">Rates & Curves</div>
 <div class="grid">
-<div class="card"><div class="label">US 2Y</div><div class="value" id="us2y">—</div></div>
-<div class="card"><div class="label">US 10Y</div><div class="value" id="us10y">—</div></div>
-<div class="card"><div class="label">US 30Y</div><div class="value" id="us30y">—</div></div>
-<div class="card"><div class="label">2s10s</div><div class="value" id="curve">—</div></div>
-<div class="card"><div class="label">10Y Real Yield</div><div class="value" id="real10y">—</div></div>
-<div class="card"><div class="label">JGB 10Y</div><div class="value" id="jgb10y">—</div></div>
-<div class="card"><div class="label">Bund 10Y</div><div class="value" id="bund10y">—</div></div>
+<div class="card"><div class="label">US 2Y</div><div class="value">—</div></div>
+<div class="card"><div class="label">US 5Y</div><div class="value">—</div></div>
+<div class="card"><div class="label">US 10Y</div><div class="value">—</div></div>
+<div class="card"><div class="label">US 30Y</div><div class="value">—</div></div>
+<div class="card"><div class="label">2s10s</div><div class="value">—</div></div>
+<div class="card"><div class="label">10Y Real Yield</div><div class="value">—</div></div>
 </div>
 </div>
 
+<!-- CENTRAL BANK POLICY -->
 <div class="section">
-<div class="section-title">Inflation & Employment</div>
+<div class="section-title">Central Bank Policy</div>
 <div class="grid">
-<div class="card"><div class="label">CPI YoY</div><div class="value" id="cpi">—</div></div>
-<div class="card"><div class="label">Core CPI YoY</div><div class="value" id="corecpi">—</div></div>
-<div class="card"><div class="label">Unemployment</div><div class="value" id="unemp">—</div></div>
-<div class="card"><div class="label">Nonfarm Payrolls</div><div class="value" id="nfp">—</div></div>
+<div class="card"><div class="label">Fed Funds Futures</div><div class="value">—</div></div>
+<div class="card"><div class="label">MOVE Index</div><div class="value">—</div></div>
+<div class="card"><div class="label">ECB Deposit Rate</div><div class="value">—</div></div>
+<div class="card"><div class="label">BOJ Policy Rate</div><div class="value">—</div></div>
 </div>
 </div>
 
+<!-- INFLATION & LABOR -->
+<div class="section">
+<div class="section-title">Inflation & Labor</div>
+<div class="grid">
+<div class="card"><div class="label">CPI YoY</div><div class="value">—</div></div>
+<div class="card"><div class="label">Core CPI YoY</div><div class="value">—</div></div>
+<div class="card"><div class="label">Unemployment Rate</div><div class="value">—</div></div>
+<div class="card"><div class="label">Nonfarm Payrolls</div><div class="value">—</div></div>
+</div>
+</div>
+
+<!-- LIQUIDITY -->
+<div class="section">
+<div class="section-title">Liquidity & Money</div>
+<div class="grid">
+<div class="card"><div class="label">US M2 Money Supply</div><div class="value">—</div></div>
+<div class="card"><div class="label">Fed Balance Sheet</div><div class="value">—</div></div>
+<div class="card"><div class="label">Reverse Repo (RRP)</div><div class="value">—</div></div>
+<div class="card"><div class="label">Treasury General Account</div><div class="value">—</div></div>
+</div>
+</div>
+
+<!-- GLOBAL BONDS -->
+<div class="section">
+<div class="section-title">Global Bonds</div>
+<div class="grid">
+<div class="card"><div class="label">JGB 10Y</div><div class="value">—</div></div>
+<div class="card"><div class="label">Bund 10Y</div><div class="value">—</div></div>
+</div>
+</div>
+
+<!-- COMMODITIES -->
 <div class="section">
 <div class="section-title">Commodities</div>
 <div class="grid">
-<div class="card"><div class="label">Gold</div><div class="value" id="gold">—</div></div>
-<div class="card"><div class="label">WTI Crude</div><div class="value" id="wti">—</div></div>
-<div class="card"><div class="label">Copper</div><div class="value" id="copper">—</div></div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-title">Positioning</div>
-<div class="grid">
-<div class="card"><div class="label">CFTC Gold</div><div class="value" id="cot_gold">—</div></div>
-<div class="card"><div class="label">CFTC USD</div><div class="value" id="cot_usd">—</div></div>
+<div class="card"><div class="label">Gold</div><div class="value">—</div></div>
+<div class="card"><div class="label">WTI Crude</div><div class="value">—</div></div>
+<div class="card"><div class="label">Copper</div><div class="value">—</div></div>
 </div>
 </div>
 
 <footer>
-FRED · Alpha Vantage · Stooq · CFTC
+Macro Alpha Consultancy · Data Dashboard
 </footer>
 
 </div>
-
-<script>
-const FRED_KEY = "222e2d889d8d5e99c83789b4f556df45";
-
-/* FRED */
-async function fred(series, el, suffix="") {
-  const r = await fetch(`https://api.stlouisfed.org/fred/series/observations?series_id=${series}&api_key=${FRED_KEY}&file_type=json&sort_order=desc&limit=1`);
-  const j = await r.json();
-  document.getElementById(el).textContent = j.observations[0].value + suffix;
-}
-
-/* Alpha Vantage */
-const AV_KEY = "demo"; // replace later
-async function av(symbol, el) {
-  const r = await fetch(`https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${AV_KEY}`);
-  const j = await r.json();
-  document.getElementById(el).textContent = j["Global Quote"]["05. price"];
-}
-
-/* Curve math */
-async function curve() {
-  const r2 = await fetch(`https://api.stlouisfed.org/fred/series/observations?series_id=DGS2&api_key=${FRED_KEY}&file_type=json&sort_order=desc&limit=1`);
-  const r10 = await fetch(`https://api.stlouisfed.org/fred/series/observations?series_id=DGS10&api_key=${FRED_KEY}&file_type=json&sort_order=desc&limit=1`);
-  const j2 = await r2.json();
-  const j10 = await r10.json();
-  const spread = (j10.observations[0].value - j2.observations[0].value).toFixed(2);
-  document.getElementById("curve").textContent = spread + "%";
-}
-
-/* Load core FRED */
-fred("DGS2","us2y","%");
-fred("DGS10","us10y","%");
-fred("DGS30","us30y","%");
-fred("DFII10","real10y","%");
-fred("CPIAUCSL","cpi");
-fred("CPILFESL","corecpi");
-fred("UNRATE","unemp","%");
-fred("PAYEMS","nfp");
-
-/* Global bonds */
-fred("IRLTLT01JPM156N","jgb10y","%");
-fred("IRLTLT01DEM156N","bund10y","%");
-
-/* Curve */
-curve();
-
-/* Market proxies */
-av("SPY","sp500");
-av("VIXY","vix");
-av("UUP","dxy");
-av("USDJPY","usdjpy");
-av("GLD","gold");
-av("USO","wti");
-av("CPER","copper");
-
-/* CFTC placeholders (weekly JSON ingest later) */
-document.getElementById("cot_gold").textContent = "Weekly";
-document.getElementById("cot_usd").textContent = "Weekly";
-</script>
 
 </body>
 </html>
