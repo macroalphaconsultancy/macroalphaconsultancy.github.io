@@ -27,18 +27,3 @@ This repository contains a static website for *Macro Alpha Consultancy (MAC)*.
 
 The `script.js` automatically creates a card for each entry and displays an icon for known sources (Medium). Unknown sources show a generic link icon.
 
-## How to update Founder / About / Services
-Edit `index.html`:
-- `#about` section contains About Us copy.
-- `#services` contains service cards — duplicate or modify `<div class="card">` blocks to add/remove services.
-- `#founder` section contains founder bio and contact; update text or replace the placeholder CV link at `assets/Ishrit_Tewari_CV.pdf`.
-
-## Adding CV or Assets
-Place files in the `assets` folder and link them in `index.html`, for example:
-```html
-<a href="assets/Ishrit_Tewari_CV.pdf">Download CV</a>
-```
-
-## Deployment
-Create a repository named `macroalphaconsultancy.github.io` and push all files to the repository root (not a subfolder). GitHub Pages will serve the site at `https://macroalphaconsultancy.github.io`.
-
