@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Macro Alpha Consultancy | Commodities</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+:root{--bg:#fafafa;--surface:#ffffff;--ink:#13343b;--muted:rgba(19,52,59,.65);--accent:#21808d;--border:rgba(0,0,0,.08);}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);}
+header{background:var(--ink);color:#fff;padding:18px 24px 20px;border-bottom:4px solid var(--accent);}
+header a{color:#fff;text-decoration:none;font-size:13px;opacity:.9;}
+header h1{margin:8px 0 0;font-size:26px;font-weight:600;}
+.container{max-width:1600px;margin:0 auto;padding:28px 24px 44px;}
+.section{margin-bottom:56px;}
+.section-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:22px;}
+.section-title{font-size:22px;font-weight:600;padding-bottom:8px;border-bottom:2px solid var(--accent);}
+.section-links a{font-size:12px;margin-left:14px;color:var(--accent);text-decoration:none;}
+.section-links a:hover{text-decoration:underline}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;}
+.card{background:var(--surface);border-radius:10px;padding:16px 16px 18px;border:1px solid var(--border);}
+.label{font-size:12px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);}
+.value{font-size:22px;font-weight:600;margin-top:6px;}
+.delta{font-size:12px;margin-top:4px;color:var(--muted);}
+footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-size:13px;color:var(--muted);}
+</style>
+</head>
+<body>
+
+<header>
+  <a href="dashboard.html">← Back to Macro Dashboard</a>
+  <h1>Commodities</h1>
+</header>
+
+<div class="container">
+
+<!-- PRECIOUS METALS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Precious Metals</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/GOLDAMGBD228NLBM" target="_blank">Gold</a>
+      <a href="https://fred.stlouisfed.org/series/SLVPRUSD" target="_blank">Silver</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Gold (USD/oz)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Silver (USD/oz)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- ENERGY PRICES -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Energy Prices</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/DCOILWTICO" target="_blank">WTI</a>
+      <a href="https://fred.stlouisfed.org/series/DCOILBRENTEU" target="_blank">Brent</a>
+      <a href="https://fred.stlouisfed.org/series/DHHNGSP" target="_blank">Natural Gas</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">WTI Crude (USD/bbl)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Brent Crude (USD/bbl)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Natural Gas (USD/MMBtu)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- ENERGY INVENTORY & FLOWS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Energy Inventory & Flows</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/WCESTUS1" target="_blank">Crude Inventories</a>
+      <a href="https://fred.stlouisfed.org/series/DPROPANEMBTX" target="_blank">Distillates</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">US Crude Oil Inventories</div><div class="value">—</div><div class="delta">WoW Δ —</div></div>
+    <div class="card"><div class="label">US Distillate Fuel Stocks</div><div class="value">—</div><div class="delta">WoW Δ —</div></div>
+  </div>
+</div>
+
+<!-- INDUSTRIAL METALS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Industrial Metals</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/PCOPPUSDM" target="_blank">Copper</a>
+      <a href="https://fred.stlouisfed.org/series/PALUMUSDM" target="_blank">Aluminum</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Copper (USD/mt)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Aluminum (USD/mt)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- CHINA DEMAND PROXIES -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">China Commodity Demand Proxies</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/CHPMINDQG" target="_blank">China PMI</a>
+      <a href="https://fred.stlouisfed.org/series/CHPRGDPG" target="_blank">Industrial Production</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">China Manufacturing PMI</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">China Industrial Production</div><div class="value">—</div><div class="delta">YoY Δ —</div></div>
+  </div>
+</div>
+
+<!-- AGRICULTURE -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Agriculture</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/PWHEAMTUSDM" target="_blank">Wheat</a>
+      <a href="https://fred.stlouisfed.org/series/PCORNUSDM" target="_blank">Corn</a>
+      <a href="https://fred.stlouisfed.org/series/PSOYBUSDM" target="_blank">Soybeans</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Wheat (USD/mt)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Corn (USD/mt)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Soybeans (USD/mt)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<footer>
+Macro Alpha Consultancy · Commodities Monitor
+</footer>
+
+</div>
+</body>
+</html>

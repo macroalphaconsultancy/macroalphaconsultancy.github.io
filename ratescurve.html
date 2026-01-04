@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Macro Alpha Consultancy | Rates & Curves</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<style>
+:root{
+  --bg:#fafafa;
+  --surface:#ffffff;
+  --ink:#13343b;
+  --muted:rgba(19,52,59,.65);
+  --accent:#21808d;
+  --border:rgba(0,0,0,.08);
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  background:var(--bg);
+  color:var(--ink);
+}
+header{
+  background:var(--ink);
+  color:#fff;
+  padding:18px 24px 20px;
+  border-bottom:4px solid var(--accent);
+}
+header a{
+  color:#fff;
+  text-decoration:none;
+  font-size:13px;
+  opacity:.9;
+}
+header h1{
+  margin:8px 0 0;
+  font-size:26px;
+  font-weight:600;
+}
+.container{
+  max-width:1600px;
+  margin:0 auto;
+  padding:28px 24px 40px;
+}
+.section{margin-bottom:52px}
+.section-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:22px;
+}
+.section-title{
+  font-size:22px;
+  font-weight:600;
+  padding-bottom:8px;
+  border-bottom:2px solid var(--accent);
+}
+.section-links a{
+  font-size:12px;
+  margin-left:14px;
+  color:var(--accent);
+  text-decoration:none;
+}
+.section-links a:hover{text-decoration:underline}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:16px;
+}
+.card{
+  background:var(--surface);
+  border-radius:10px;
+  padding:16px 16px 18px;
+  border:1px solid var(--border);
+}
+.label{
+  font-size:12px;
+  text-transform:uppercase;
+  letter-spacing:.4px;
+  color:var(--muted);
+}
+.value{
+  font-size:22px;
+  font-weight:600;
+  margin-top:6px;
+}
+.delta{
+  font-size:12px;
+  margin-top:4px;
+  color:var(--muted);
+}
+.source{
+  font-size:11px;
+  margin-top:6px;
+}
+.source a{
+  color:var(--accent);
+  text-decoration:none;
+}
+.source a:hover{text-decoration:underline}
+footer{
+  border-top:1px solid var(--border);
+  margin-top:48px;
+  padding-top:18px;
+  font-size:13px;
+  color:var(--muted);
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <a href="dashboard.html">← Back to Macro Dashboard</a>
+  <h1>Rates & Curves</h1>
+</header>
+
+<div class="container">
+
+<!-- US TREASURY YIELDS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">US Treasury Yields</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/DGS2" target="_blank">2Y</a>
+      <a href="https://fred.stlouisfed.org/series/DGS5" target="_blank">5Y</a>
+      <a href="https://fred.stlouisfed.org/series/DGS10" target="_blank">10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DGS30" target="_blank">30Y</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">US 2Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DGS2" target="_blank">FRED: DGS2</a></div></div>
+    <div class="card"><div class="label">US 5Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DGS5" target="_blank">FRED: DGS5</a></div></div>
+    <div class="card"><div class="label">US 10Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DGS10" target="_blank">FRED: DGS10</a></div></div>
+    <div class="card"><div class="label">US 30Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DGS30" target="_blank">FRED: DGS30</a></div></div>
+  </div>
+</div>
+
+<!-- CURVE SPREADS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Curve Spreads</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/DGS2" target="_blank">2Y</a>
+      <a href="https://fred.stlouisfed.org/series/DGS10" target="_blank">10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DGS30" target="_blank">30Y</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">2s–10s Spread</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DGS2" target="_blank">DGS2</a> / <a href="https://fred.stlouisfed.org/series/DGS10" target="_blank">DGS10</a></div></div>
+    <div class="card"><div class="label">10s–30s Spread</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DGS10" target="_blank">DGS10</a> / <a href="https://fred.stlouisfed.org/series/DGS30" target="_blank">DGS30</a></div></div>
+  </div>
+</div>
+
+<!-- REAL RATES -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Real Rates</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/DFII10" target="_blank">10Y TIPS</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">10Y Real Yield</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/DFII10" target="_blank">FRED: DFII10</a></div></div>
+  </div>
+</div>
+
+<!-- TERM PREMIUM -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Term Premium (ACM)</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/THREEFYTP10" target="_blank">ACM 10Y</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">10Y Term Premium</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/THREEFYTP10" target="_blank">FRED: THREEFYTP10</a></div></div>
+  </div>
+</div>
+
+<!-- OIS / FORWARDS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">OIS & Forward Rates</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/SOFR" target="_blank">SOFR</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">1Y OIS (SOFR-based)</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/SOFR" target="_blank">FRED: SOFR</a></div></div>
+    <div class="card"><div class="label">FRA–OIS Spread</div><div class="value">—</div><div class="delta">1D Δ —</div><div class="source"><a href="https://fred.stlouisfed.org/series/SOFR" target="_blank">Derived</a></div></div>
+  </div>
+</div>
+
+<footer>
+Macro Alpha Consultancy · Rates & Curves Monitor
+</footer>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Macro Alpha Consultancy | Markets</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+:root{--bg:#fafafa;--surface:#ffffff;--ink:#13343b;--muted:rgba(19,52,59,.65);--accent:#21808d;--border:rgba(0,0,0,.08);}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);}
+header{background:var(--ink);color:#fff;padding:18px 24px 20px;border-bottom:4px solid var(--accent);}
+header a{color:#fff;text-decoration:none;font-size:13px;opacity:.9;}
+header h1{margin:8px 0 0;font-size:26px;font-weight:600;}
+.container{max-width:1600px;margin:0 auto;padding:28px 24px 44px;}
+.section{margin-bottom:56px;}
+.section-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:22px;}
+.section-title{font-size:22px;font-weight:600;padding-bottom:8px;border-bottom:2px solid var(--accent);}
+.section-links a{font-size:12px;margin-left:14px;color:var(--accent);text-decoration:none;}
+.section-links a:hover{text-decoration:underline}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;}
+.card{background:var(--surface);border-radius:10px;padding:16px 16px 18px;border:1px solid var(--border);}
+.label{font-size:12px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);}
+.value{font-size:22px;font-weight:600;margin-top:6px;}
+.delta{font-size:12px;margin-top:4px;color:var(--muted);}
+footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-size:13px;color:var(--muted);}
+</style>
+</head>
+<body>
+
+<header>
+  <a href="dashboard.html">← Back to Macro Dashboard</a>
+  <h1>Global Markets</h1>
+</header>
+
+<div class="container">
+
+<!-- US MARKETS -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">United States</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/SP500" target="_blank">S&amp;P 500</a>
+      <a href="https://fred.stlouisfed.org/series/VIXCLS" target="_blank">VIX</a>
+      <a href="https://fred.stlouisfed.org/series/DTWEXBGS" target="_blank">DXY</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">S&amp;P 500 Index</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">VIX Index</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">US Dollar Index (Broad)</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- ASIA -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Asia</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/NIKKEI225" target="_blank">Nikkei 225</a>
+      <a href="https://fred.stlouisfed.org/series/SHCOMP" target="_blank">Shanghai Composite</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Nikkei 225</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Shanghai Composite</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- EUROPE -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Europe</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/DAX" target="_blank">DAX</a>
+      <a href="https://fred.stlouisfed.org/series/FTSE100" target="_blank">FTSE 100</a>
+      <a href="https://fred.stlouisfed.org/series/FRANCE40" target="_blank">CAC 40</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Germany DAX</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">UK FTSE 100</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">France CAC 40</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- GLOBAL -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Global Benchmarks</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/MSCIWORLD" target="_blank">MSCI World</a>
+      <a href="https://fred.stlouisfed.org/series/MSCIEM" target="_blank">MSCI EM</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">MSCI World Index</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">MSCI Emerging Markets</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<footer>
+Macro Alpha Consultancy · Markets Monitor
+</footer>
+
+</div>
+</body>
+</html>

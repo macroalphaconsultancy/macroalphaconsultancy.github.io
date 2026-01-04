@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Macro Alpha Consultancy | Global Bonds & FX</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+:root{--bg:#fafafa;--surface:#ffffff;--ink:#13343b;--muted:rgba(19,52,59,.65);--accent:#21808d;--border:rgba(0,0,0,.08);}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);}
+header{background:var(--ink);color:#fff;padding:18px 24px 20px;border-bottom:4px solid var(--accent);}
+header a{color:#fff;text-decoration:none;font-size:13px;opacity:.9;}
+header h1{margin:8px 0 0;font-size:26px;font-weight:600;}
+.container{max-width:1600px;margin:0 auto;padding:28px 24px 44px;}
+.section{margin-bottom:56px;}
+.section-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:22px;}
+.section-title{font-size:22px;font-weight:600;padding-bottom:8px;border-bottom:2px solid var(--accent);}
+.section-links a{font-size:12px;margin-left:14px;color:var(--accent);text-decoration:none;}
+.section-links a:hover{text-decoration:underline}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;}
+.card{background:var(--surface);border-radius:10px;padding:16px 16px 18px;border:1px solid var(--border);}
+.label{font-size:12px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);}
+.value{font-size:22px;font-weight:600;margin-top:6px;}
+.delta{font-size:12px;margin-top:4px;color:var(--muted);}
+footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-size:13px;color:var(--muted);}
+</style>
+</head>
+<body>
+
+<header>
+  <a href="dashboard.html">← Back to Macro Dashboard</a>
+  <h1>Global Bonds & FX</h1>
+</header>
+
+<div class="container">
+
+<!-- JAPAN -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Japan</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01JPM156N" target="_blank">JGB 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DEXJPUS" target="_blank">JPY/USD</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Japan 10Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">JPY / USD</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- EURO CORE -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Euro Area – Core</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01DEM156N" target="_blank">Germany 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01FRM156N" target="_blank">France 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DEXUSEU" target="_blank">EUR/USD</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Germany 10Y Bund</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">France 10Y OAT</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">EUR / USD</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- EURO PERIPHERY -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Euro Area – Periphery</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01ITM156N" target="_blank">Italy 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01ESM156N" target="_blank">Spain 10Y</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Italy 10Y BTP</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Spain 10Y Bonos</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- UK -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">United Kingdom</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01GBM156N" target="_blank">UK 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DEXUSUK" target="_blank">GBP/USD</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">UK 10Y Gilt</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">GBP / USD</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- SWITZERLAND -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">Switzerland</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01CHM156N" target="_blank">Switzerland 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DEXSZUS" target="_blank">CHF/USD</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">Switzerland 10Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">CHF / USD</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<!-- CHINA -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-title">China</div>
+    <div class="section-links">
+      <a href="https://fred.stlouisfed.org/series/IRLTLT01CNM156N" target="_blank">China 10Y</a>
+      <a href="https://fred.stlouisfed.org/series/DEXCHUS" target="_blank">CNY/USD</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card"><div class="label">China 10Y Yield</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">CNY / USD</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
+  </div>
+</div>
+
+<footer>
+Macro Alpha Consultancy · Global Bonds & FX Monitor
+</footer>
+
+</div>
+</body>
+</html>
