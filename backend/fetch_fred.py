@@ -1,9 +1,12 @@
 import requests
 import json
-from datetime import datetime
 
 API_KEY = "222e2d889d8d5e99c83789b4f556df45"
 BASE_URL = "https://api.stlouisfed.org/fred/series/observations"
+
+HEADERS = {
+    "User-Agent": "macroalphaconsultancy-dashboard/1.0"
+}
 
 SERIES = [
     "DGS2","DGS5","DGS10","DGS30","DFII10","THREEFYTP10",
@@ -22,6 +25,7 @@ for s in SERIES:
     try:
         r = requests.get(
             BASE_URL,
+            headers=HEADERS,
             params={
                 "series_id": s,
                 "api_key": API_KEY,
@@ -32,20 +36,20 @@ for s in SERIES:
             timeout=20
         ).json()
 
-        if "observations" not in r or len(r["observations"]) == 0:
-            print(f"[WARN] No observations for {s}")
+        obs_list = r.get("observations", [])
+        if not obs_list:
             raw[s] = {"value": None, "updated": None}
             continue
 
-        obs = r["observations"][0]
+        obs = obs_list[0]
+        val = obs.get("value")
 
-        if obs["value"] in (".", None):
-            raw[s] = {"value": None, "updated": obs["date"]}
+        if val in (None, ".", ""):
+            raw[s] = {"value": None, "updated": obs.get("date")}
         else:
-            raw[s] = {"value": float(obs["value"]), "updated": obs["date"]}
+            raw[s] = {"value": float(val), "updated": obs.get("date")}
 
     except Exception as e:
-        print(f"[ERROR] Failed to fetch {s}: {e}")
         raw[s] = {"value": None, "updated": None}
 
 with open("data/raw.json", "w") as f:
