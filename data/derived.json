@@ -1,7 +1,20 @@
 {
+  "DGS2_1d": null,
   "DGS10_1d": null,
+  "DGS30_1d": null,
+  "spread_2s10s": null,
+  "spread_10s30s": null,
+  "real_10y_1d": null,
+  "term_premium_10y_1d": null,
   "CPI_YoY": null,
+  "CoreCPI_YoY": null,
   "PAYEMS_MoM": null,
-  "2s10s": null,
-  "10s30s": null
+  "UNRATE_MoM": null,
+  "AHETPI_YoY": null,
+  "WALCL_WoW": null,
+  "RRP_WoW": null,
+  "TGA_WoW": null,
+  "SP500_1d": null,
+  "VIX_1d": null,
+  "DXY_1d": null
 }
