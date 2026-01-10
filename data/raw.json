@@ -1,95 +1,95 @@
 {
   "DGS2": {
-    "value": null,
-    "updated": null
+    "value": 3.49,
+    "updated": "2026-01-08"
   },
   "DGS5": {
-    "value": null,
-    "updated": null
+    "value": 3.74,
+    "updated": "2026-01-08"
   },
   "DGS10": {
-    "value": null,
-    "updated": null
+    "value": 4.19,
+    "updated": "2026-01-08"
   },
   "DGS30": {
-    "value": null,
-    "updated": null
+    "value": 4.85,
+    "updated": "2026-01-08"
   },
   "DFII10": {
-    "value": null,
-    "updated": null
+    "value": 1.92,
+    "updated": "2026-01-08"
   },
   "THREEFYTP10": {
-    "value": null,
-    "updated": null
+    "value": 0.5844,
+    "updated": "2026-01-02"
   },
   "WALCL": {
-    "value": null,
-    "updated": null
+    "value": 6573602.0,
+    "updated": "2026-01-07"
   },
   "RESBALNS": {
-    "value": null,
-    "updated": null
+    "value": 2799.719,
+    "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": null,
-    "updated": null
+    "value": 796148.0,
+    "updated": "2026-01-07"
   },
   "RRPONTSYD": {
-    "value": null,
-    "updated": null
+    "value": 3.28,
+    "updated": "2026-01-09"
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-01-08"
   },
   "SOFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-01-08"
   },
   "ECBASSETSW": {
-    "value": null,
-    "updated": null
+    "value": 6321445.0,
+    "updated": "2026-01-02"
   },
   "CPIAUCSL": {
-    "value": null,
-    "updated": null
+    "value": 325.031,
+    "updated": "2025-11-01"
   },
   "CPILFESL": {
-    "value": null,
-    "updated": null
+    "value": 331.068,
+    "updated": "2025-11-01"
   },
   "UNRATE": {
-    "value": null,
-    "updated": null
+    "value": 4.4,
+    "updated": "2025-12-01"
   },
   "PAYEMS": {
-    "value": null,
-    "updated": null
+    "value": 159526.0,
+    "updated": "2025-12-01"
   },
   "AHETPI": {
-    "value": null,
-    "updated": null
+    "value": 31.76,
+    "updated": "2025-12-01"
   },
   "CIVPART": {
-    "value": null,
-    "updated": null
+    "value": 62.4,
+    "updated": "2025-12-01"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 6966.28,
+    "updated": "2026-01-09"
   },
   "VIXCLS": {
-    "value": null,
-    "updated": null
+    "value": 15.45,
+    "updated": "2026-01-08"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 119.9876,
+    "updated": "2026-01-02"
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 51939.89,
+    "updated": "2026-01-09"
   },
   "SHCOMP": {
     "value": null,
@@ -107,68 +107,60 @@
     "value": null,
     "updated": null
   },
-  "MSCIWORLD": {
-    "value": null,
-    "updated": null
-  },
-  "MSCIEM": {
-    "value": null,
-    "updated": null
-  },
   "GOLDAMGBD228NLBM": {
     "value": null,
     "updated": null
   },
   "DCOILWTICO": {
-    "value": null,
-    "updated": null
+    "value": 58.1,
+    "updated": "2026-01-05"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 63.0,
+    "updated": "2026-01-05"
   },
   "PCOPPUSDM": {
-    "value": null,
-    "updated": null
+    "value": 9835.0680952381,
+    "updated": "2025-06-01"
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 2.82,
+    "updated": "2026-01-05"
   },
   "IRLTLT01DEM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.6575,
+    "updated": "2025-11-01"
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.459,
+    "updated": "2025-11-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 1.805,
+    "updated": "2025-11-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
     "updated": null
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 156.72,
+    "updated": "2026-01-02"
   },
   "DEXUSEU": {
-    "value": null,
-    "updated": null
+    "value": 1.1738,
+    "updated": "2026-01-02"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3481,
+    "updated": "2026-01-02"
   },
   "DEXSZUS": {
-    "value": null,
-    "updated": null
+    "value": 0.7918,
+    "updated": "2026-01-02"
   },
   "DEXCHUS": {
-    "value": null,
-    "updated": null
+    "value": 6.9877,
+    "updated": "2026-01-02"
   }
 }
