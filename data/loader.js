@@ -13,16 +13,20 @@ async function loadMacroData() {
     const key = el.getAttribute('data-key');
     let value = null;
 
-    if (raw[key] && raw[key].value !== null) {
-      value = raw[key].value;
-    } else if (derived[key] !== undefined && derived[key] !== null) {
+    // 1️⃣ Derived data ALWAYS takes precedence
+    if (derived[key] !== undefined && derived[key] !== null) {
       value = derived[key];
+    }
+    // 2️⃣ Fallback to raw level data
+    else if (raw[key] && raw[key].value !== null) {
+      value = raw[key].value;
     }
 
     if (value !== null) {
-      el.textContent = typeof value === 'number'
-        ? value.toFixed(2)
-        : value;
+      el.textContent =
+        typeof value === 'number'
+          ? value.toFixed(2)
+          : value;
     }
   });
 }
