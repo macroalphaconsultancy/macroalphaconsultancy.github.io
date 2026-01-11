@@ -51,6 +51,14 @@
     "value": 6321445.0,
     "updated": "2026-01-02"
   },
+  "JPNASSETSW": {
+    "value": null,
+    "updated": null
+  },
+  "CHNASETS": {
+    "value": null,
+    "updated": null
+  },
   "CPIAUCSL": {
     "value": 325.031,
     "updated": "2025-11-01"
@@ -58,6 +66,26 @@
   "CPILFESL": {
     "value": 331.068,
     "updated": "2025-11-01"
+  },
+  "CUSR0000SAS": {
+    "value": 422.163,
+    "updated": "2025-11-01"
+  },
+  "CUSR0000SEHA": {
+    "value": 438.875,
+    "updated": "2025-11-01"
+  },
+  "PPIFDG": {
+    "value": 148.101,
+    "updated": "2025-09-01"
+  },
+  "PCEPI": {
+    "value": 127.626,
+    "updated": "2025-09-01"
+  },
+  "PCEPILFE": {
+    "value": 126.955,
+    "updated": "2025-09-01"
   },
   "UNRATE": {
     "value": 4.4,
@@ -75,9 +103,97 @@
     "value": 62.4,
     "updated": "2025-12-01"
   },
+  "ICSA": {
+    "value": 208000.0,
+    "updated": "2026-01-03"
+  },
+  "CCSA": {
+    "value": 1914000.0,
+    "updated": "2025-12-27"
+  },
+  "JTSJOL": {
+    "value": 7146.0,
+    "updated": "2025-11-01"
+  },
+  "JTSQUR": {
+    "value": 2.0,
+    "updated": "2025-11-01"
+  },
+  "INDPRO": {
+    "value": 101.7935,
+    "updated": "2025-11-01"
+  },
+  "RSXFS": {
+    "value": 633232.0,
+    "updated": "2025-10-01"
+  },
+  "NAPMPI": {
+    "value": null,
+    "updated": null
+  },
+  "TCU": {
+    "value": 75.9566,
+    "updated": "2025-11-01"
+  },
+  "MORTGAGE30US": {
+    "value": 6.16,
+    "updated": "2026-01-08"
+  },
+  "HOUST": {
+    "value": 1246.0,
+    "updated": "2025-10-01"
+  },
+  "EXHOSLUSM495S": {
+    "value": 4130000.0,
+    "updated": "2025-11-01"
+  },
+  "HSN1F": {
+    "value": 800.0,
+    "updated": "2025-08-01"
+  },
+  "UMCSENT": {
+    "value": 51.0,
+    "updated": "2025-11-01"
+  },
+  "GOLDAMGBD228NLBM": {
+    "value": null,
+    "updated": null
+  },
+  "DCOILWTICO": {
+    "value": 58.1,
+    "updated": "2026-01-05"
+  },
+  "DCOILBRENTEU": {
+    "value": 63.0,
+    "updated": "2026-01-05"
+  },
+  "PCOPPUSDM": {
+    "value": 9835.0680952381,
+    "updated": "2025-06-01"
+  },
+  "DHHNGSP": {
+    "value": 2.82,
+    "updated": "2026-01-05"
+  },
   "SP500": {
     "value": 6966.28,
     "updated": "2026-01-09"
+  },
+  "SP500REAL": {
+    "value": null,
+    "updated": null
+  },
+  "NASDAQCOM": {
+    "value": 23671.35,
+    "updated": "2026-01-09"
+  },
+  "RUT": {
+    "value": null,
+    "updated": null
+  },
+  "WILL5000PR": {
+    "value": null,
+    "updated": null
   },
   "VIXCLS": {
     "value": 15.45,
@@ -107,32 +223,36 @@
     "value": null,
     "updated": null
   },
-  "GOLDAMGBD228NLBM": {
+  "STOXX50E": {
     "value": null,
     "updated": null
   },
-  "DCOILWTICO": {
-    "value": 58.1,
-    "updated": "2026-01-05"
-  },
-  "DCOILBRENTEU": {
-    "value": 63.0,
-    "updated": "2026-01-05"
-  },
-  "PCOPPUSDM": {
-    "value": 9835.0680952381,
-    "updated": "2025-06-01"
-  },
-  "DHHNGSP": {
-    "value": 2.82,
-    "updated": "2026-01-05"
+  "HANGSENG": {
+    "value": null,
+    "updated": null
   },
   "IRLTLT01DEM156N": {
     "value": 2.6575,
     "updated": "2025-11-01"
   },
+  "IRLTLT01FRM156N": {
+    "value": 3.44,
+    "updated": "2025-11-01"
+  },
   "IRLTLT01ITM156N": {
     "value": 3.459,
+    "updated": "2025-11-01"
+  },
+  "IRLTLT01GBM156N": {
+    "value": 4.4985,
+    "updated": "2025-11-01"
+  },
+  "IRLTLT01CHM156N": {
+    "value": 0.19,
+    "updated": "2025-11-01"
+  },
+  "IRLTLT01ESM156N": {
+    "value": 3.1788,
     "updated": "2025-11-01"
   },
   "IRLTLT01JPM156N": {
@@ -143,9 +263,17 @@
     "value": null,
     "updated": null
   },
-  "DEXJPUS": {
-    "value": 156.72,
-    "updated": "2026-01-02"
+  "ECBDFR": {
+    "value": 2.0,
+    "updated": "2026-01-09"
+  },
+  "IRSTCB01GBM156N": {
+    "value": null,
+    "updated": null
+  },
+  "IRSTCB01JPM156N": {
+    "value": 0.3,
+    "updated": "2023-12-01"
   },
   "DEXUSEU": {
     "value": 1.1738,
@@ -153,6 +281,10 @@
   },
   "DEXUSUK": {
     "value": 1.3481,
+    "updated": "2026-01-02"
+  },
+  "DEXJPUS": {
+    "value": 156.72,
     "updated": "2026-01-02"
   },
   "DEXSZUS": {
