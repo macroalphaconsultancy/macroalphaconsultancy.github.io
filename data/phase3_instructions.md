@@ -13,7 +13,7 @@ HTML must only contain placeholders and keys.
 
 If data is missing, placeholder (—) remains.
 
-## Step 5: Extend
+## 
 Any new metric only requires:
 - adding to backend JSON
 - adding matching data-key in HTML
