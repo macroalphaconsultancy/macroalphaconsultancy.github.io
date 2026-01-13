@@ -34,26 +34,28 @@ footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-
 
 <div class="container">
 
+<!-- INFLATION -->
 <div class="section">
   <div class="section-header">
     <div class="section-title">Inflation</div>
     <div class="section-links">
       <a href="https://fred.stlouisfed.org/series/CPIAUCSL" target="_blank">CPI</a>
       <a href="https://fred.stlouisfed.org/series/CPILFESL" target="_blank">Core CPI</a>
-      <a href="https://fred.stlouisfed.org/series/CUSR0000SASL" target="_blank">Services CPI</a>
-      <a href="https://fred.stlouisfed.org/series/PPIACO" target="_blank">PPI</a>
+      <a href="https://fred.stlouisfed.org/series/CUSR0000SAS" target="_blank">Services CPI</a>
+      <a href="https://fred.stlouisfed.org/series/PPIFDG" target="_blank">PPI</a>
     </div>
   </div>
   <div class="grid">
     <div class="card"><div class="label">CPI YoY</div><div class="value" data-key="CPI_YoY">—</div><div class="delta">YoY —</div></div>
     <div class="card"><div class="label">Core CPI YoY</div><div class="value" data-key="CoreCPI_YoY">—</div><div class="delta">YoY —</div></div>
-    <div class="card"><div class="label">Core Services CPI YoY</div><div class="value">—</div><div class="delta">YoY —</div></div>
-    <div class="card"><div class="label">PPI YoY</div><div class="value">—</div><div class="delta">YoY —</div></div>
-    <div class="card"><div class="label">Michigan 1Y Inflation Expectations</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">Core Services CPI YoY</div><div class="value" data-key="CUSR0000SAS">—</div><div class="delta">YoY —</div></div>
+    <div class="card"><div class="label">PPI YoY</div><div class="value" data-key="PPIFDG">—</div><div class="delta">YoY —</div></div>
+    <div class="card"><div class="label">Michigan 1Y Inflation Expectations</div><div class="value" data-key="UMCSENT">—</div><div class="delta">MoM Δ —</div></div>
     <div class="card"><div class="label">5Y5Y Breakeven Inflation</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
   </div>
 </div>
 
+<!-- LABOR -->
 <div class="section">
   <div class="section-header">
     <div class="section-title">Labor Market</div>
@@ -66,14 +68,15 @@ footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-
   </div>
   <div class="grid">
     <div class="card"><div class="label">Unemployment Rate</div><div class="value" data-key="UNRATE">—</div><div class="delta">MoM Δ —</div></div>
-    <div class="card"><div class="label">Average Hourly Earnings YoY</div><div class="value">—</div><div class="delta">YoY —</div></div>
-    <div class="card"><div class="label">Labor Force Participation Rate</div><div class="value">—</div><div class="delta">YoY Δ —</div></div>
-    <div class="card"><div class="label">Nonfarm Payrolls (MoM)</div><div class="value">—</div><div class="delta">MoM —</div></div>
-    <div class="card"><div class="label">Initial Jobless Claims</div><div class="value">—</div><div class="delta">WoW Δ —</div></div>
-    <div class="card"><div class="label">JOLTS Job Openings</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">Average Hourly Earnings YoY</div><div class="value" data-key="AHETPI_YoY">—</div><div class="delta">YoY —</div></div>
+    <div class="card"><div class="label">Labor Force Participation Rate</div><div class="value" data-key="CIVPART">—</div><div class="delta">YoY Δ —</div></div>
+    <div class="card"><div class="label">Nonfarm Payrolls (MoM)</div><div class="value" data-key="PAYEMS_MoM">—</div><div class="delta">MoM —</div></div>
+    <div class="card"><div class="label">Initial Jobless Claims</div><div class="value" data-key="ICSA">—</div><div class="delta">WoW Δ —</div></div>
+    <div class="card"><div class="label">JOLTS Job Openings</div><div class="value" data-key="JTSJOL">—</div><div class="delta">MoM Δ —</div></div>
   </div>
 </div>
 
+<!-- CONSUMER & HOUSING -->
 <div class="section">
   <div class="section-header">
     <div class="section-title">Consumer & Housing</div>
@@ -85,13 +88,14 @@ footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-
     </div>
   </div>
   <div class="grid">
-    <div class="card"><div class="label">Michigan Consumer Sentiment</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
-    <div class="card"><div class="label">30Y Mortgage Rate</div><div class="value">—</div><div class="delta">1D Δ —</div></div>
-    <div class="card"><div class="label">Housing Starts</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
-    <div class="card"><div class="label">Retail Sales ex Autos & Gas</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">Michigan Consumer Sentiment</div><div class="value" data-key="UMCSENT">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">30Y Mortgage Rate</div><div class="value" data-key="MORTGAGE30US">—</div><div class="delta">1D Δ —</div></div>
+    <div class="card"><div class="label">Housing Starts</div><div class="value" data-key="HOUST">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">Retail Sales ex Autos & Gas</div><div class="value" data-key="RSXFS">—</div><div class="delta">MoM Δ —</div></div>
   </div>
 </div>
 
+<!-- GROWTH -->
 <div class="section">
   <div class="section-header">
     <div class="section-title">Growth & Activity</div>
@@ -101,9 +105,9 @@ footer{border-top:1px solid var(--border);margin-top:56px;padding-top:18px;font-
     </div>
   </div>
   <div class="grid">
-    <div class="card"><div class="label">ISM Manufacturing PMI</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">ISM Manufacturing PMI</div><div class="value" data-key="NAPMPI">—</div><div class="delta">MoM Δ —</div></div>
     <div class="card"><div class="label">ISM Services PMI</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
-    <div class="card"><div class="label">Industrial Production</div><div class="value">—</div><div class="delta">MoM Δ —</div></div>
+    <div class="card"><div class="label">Industrial Production</div><div class="value" data-key="INDPRO">—</div><div class="delta">MoM Δ —</div></div>
   </div>
 </div>
 
