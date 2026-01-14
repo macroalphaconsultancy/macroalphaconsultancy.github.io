@@ -1,3 +1,4 @@
+# activate schedule
 name: Update Market & Rates Data (High Frequency)
 
 on:
