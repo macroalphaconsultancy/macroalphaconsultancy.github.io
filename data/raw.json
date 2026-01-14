@@ -36,8 +36,8 @@
     "updated": "2026-01-07"
   },
   "RRPONTSYD": {
-    "value": 3.277,
-    "updated": "2026-01-13"
+    "value": 3.223,
+    "updated": "2026-01-14"
   },
   "EFFR": {
     "value": 3.64,
@@ -76,8 +76,8 @@
     "updated": "2025-12-01"
   },
   "PPIFDG": {
-    "value": 148.101,
-    "updated": "2025-09-01"
+    "value": 148.151,
+    "updated": "2025-11-01"
   },
   "PCEPI": {
     "value": 127.626,
@@ -124,8 +124,8 @@
     "updated": "2025-11-01"
   },
   "RSXFS": {
-    "value": 633232.0,
-    "updated": "2025-10-01"
+    "value": 635651.0,
+    "updated": "2025-11-01"
   },
   "NAPMPI": {
     "value": null,
@@ -144,8 +144,8 @@
     "updated": "2025-10-01"
   },
   "EXHOSLUSM495S": {
-    "value": 4130000.0,
-    "updated": "2025-11-01"
+    "value": 4350000.0,
+    "updated": "2025-12-01"
   },
   "HSN1F": {
     "value": 737.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-01-13"
+    "updated": "2026-01-14"
   },
   "IRSTCB01GBM156N": {
     "value": null,
