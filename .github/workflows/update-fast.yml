@@ -1,0 +1,38 @@
+name: Update Market & Rates Data (High Frequency)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */2 * * *"
+
+jobs:
+  update-fast:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dateutil
+
+      - name: Fetch fast-changing data
+        run: |
+          python backend/fetch_fred_fast.py
+
+      - name: Derive metrics
+        run: |
+          python backend/derive_data.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/raw.json data/derived.json
+          git commit -m "HF market data update" || echo "No changes"
+          git push
