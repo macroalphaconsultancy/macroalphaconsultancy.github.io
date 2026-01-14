@@ -1,3 +1,4 @@
+# activate schedule
 name: Update Macro & Liquidity Data (Daily)
 
 on:
