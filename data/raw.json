@@ -1,27 +1,27 @@
 {
   "DGS2": {
     "value": 3.54,
-    "updated": "2026-01-09"
+    "updated": "2026-01-12"
   },
   "DGS5": {
-    "value": 3.75,
-    "updated": "2026-01-09"
+    "value": 3.77,
+    "updated": "2026-01-12"
   },
   "DGS10": {
-    "value": 4.18,
-    "updated": "2026-01-09"
+    "value": 4.19,
+    "updated": "2026-01-12"
   },
   "DGS30": {
-    "value": 4.82,
-    "updated": "2026-01-09"
+    "value": 4.83,
+    "updated": "2026-01-12"
   },
   "DFII10": {
     "value": 1.9,
-    "updated": "2026-01-09"
+    "updated": "2026-01-12"
   },
   "THREEFYTP10": {
-    "value": 0.5844,
-    "updated": "2026-01-02"
+    "value": 0.591,
+    "updated": "2026-01-09"
   },
   "WALCL": {
     "value": 6573602.0,
@@ -36,8 +36,8 @@
     "updated": "2026-01-07"
   },
   "RRPONTSYD": {
-    "value": 3.402,
-    "updated": "2026-01-12"
+    "value": 3.277,
+    "updated": "2026-01-13"
   },
   "EFFR": {
     "value": 3.64,
@@ -48,8 +48,8 @@
     "updated": "2026-01-12"
   },
   "ECBASSETSW": {
-    "value": 6321445.0,
-    "updated": "2026-01-02"
+    "value": 6291161.0,
+    "updated": "2026-01-09"
   },
   "JPNASSETSW": {
     "value": null,
@@ -176,16 +176,16 @@
     "updated": "2026-01-05"
   },
   "SP500": {
-    "value": 6977.27,
-    "updated": "2026-01-12"
+    "value": 6963.74,
+    "updated": "2026-01-13"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 23733.9,
-    "updated": "2026-01-12"
+    "value": 23709.87,
+    "updated": "2026-01-13"
   },
   "RUT": {
     "value": null,
