@@ -1,6 +1,6 @@
-# Macro Alpha Consultancy — GitHub Pages Site
+# Wick Research — GitHub Pages Site
 
-This repository contains a static website for *Macro Alpha Consultancy (MAC)*.
+This repository contains a static website for *Wick Research*.
 
 ## Structure
 - `index.html` — Main page.
