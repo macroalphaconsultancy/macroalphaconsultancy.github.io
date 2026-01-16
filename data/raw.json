@@ -24,20 +24,20 @@
     "updated": "2026-01-09"
   },
   "WALCL": {
-    "value": 6573602.0,
-    "updated": "2026-01-07"
+    "value": 6581700.0,
+    "updated": "2026-01-14"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 796148.0,
-    "updated": "2026-01-07"
+    "value": 779175.0,
+    "updated": "2026-01-14"
   },
   "RRPONTSYD": {
-    "value": 2.003,
-    "updated": "2026-01-15"
+    "value": 1.222,
+    "updated": "2026-01-16"
   },
   "EFFR": {
     "value": 3.64,
@@ -120,8 +120,8 @@
     "updated": "2025-11-01"
   },
   "INDPRO": {
-    "value": 101.7935,
-    "updated": "2025-11-01"
+    "value": 102.325,
+    "updated": "2025-12-01"
   },
   "RSXFS": {
     "value": 635651.0,
@@ -132,8 +132,8 @@
     "updated": null
   },
   "TCU": {
-    "value": 75.9566,
-    "updated": "2025-11-01"
+    "value": 76.2615,
+    "updated": "2025-12-01"
   },
   "MORTGAGE30US": {
     "value": 6.06,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-01-15"
+    "updated": "2026-01-16"
   },
   "IRSTCB01GBM156N": {
     "value": null,
