@@ -24,20 +24,20 @@
     "updated": "2026-02-06"
   },
   "WALCL": {
-    "value": 6605909.0,
-    "updated": "2026-02-04"
+    "value": 6622382.0,
+    "updated": "2026-02-11"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 908773.0,
-    "updated": "2026-02-04"
+    "value": 915306.0,
+    "updated": "2026-02-11"
   },
   "RRPONTSYD": {
-    "value": 2.844,
-    "updated": "2026-02-12"
+    "value": 0.377,
+    "updated": "2026-02-13"
   },
   "EFFR": {
     "value": 3.64,
@@ -60,20 +60,20 @@
     "updated": null
   },
   "CPIAUCSL": {
-    "value": 326.03,
-    "updated": "2025-12-01"
+    "value": 326.588,
+    "updated": "2026-01-01"
   },
   "CPILFESL": {
-    "value": 331.86,
-    "updated": "2025-12-01"
+    "value": 332.793,
+    "updated": "2026-01-01"
   },
   "CUSR0000SAS": {
-    "value": 423.55,
-    "updated": "2025-12-01"
+    "value": 425.16,
+    "updated": "2026-01-01"
   },
   "CUSR0000SEHA": {
-    "value": 440.034,
-    "updated": "2025-12-01"
+    "value": 441.285,
+    "updated": "2026-01-01"
   },
   "PPIFDG": {
     "value": 146.86,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-02-12"
+    "updated": "2026-02-13"
   },
   "IRSTCB01GBM156N": {
     "value": null,
