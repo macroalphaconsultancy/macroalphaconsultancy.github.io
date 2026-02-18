@@ -36,8 +36,8 @@
     "updated": "2026-02-11"
   },
   "RRPONTSYD": {
-    "value": 0.441,
-    "updated": "2026-02-17"
+    "value": 0.856,
+    "updated": "2026-02-18"
   },
   "EFFR": {
     "value": 3.64,
@@ -120,8 +120,8 @@
     "updated": "2025-12-01"
   },
   "INDPRO": {
-    "value": 102.325,
-    "updated": "2025-12-01"
+    "value": 102.3412,
+    "updated": "2026-01-01"
   },
   "RSXFS": {
     "value": 634738.0,
@@ -132,16 +132,16 @@
     "updated": null
   },
   "TCU": {
-    "value": 76.2615,
-    "updated": "2025-12-01"
+    "value": 76.2119,
+    "updated": "2026-01-01"
   },
   "MORTGAGE30US": {
     "value": 6.09,
     "updated": "2026-02-12"
   },
   "HOUST": {
-    "value": 1246.0,
-    "updated": "2025-10-01"
+    "value": 1404.0,
+    "updated": "2025-12-01"
   },
   "EXHOSLUSM495S": {
     "value": 3910000.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-02-17"
+    "updated": "2026-02-18"
   },
   "IRSTCB01GBM156N": {
     "value": null,
