@@ -24,20 +24,20 @@
     "updated": "2026-02-13"
   },
   "WALCL": {
-    "value": 6622382.0,
-    "updated": "2026-02-11"
+    "value": 6613395.0,
+    "updated": "2026-02-18"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 915306.0,
-    "updated": "2026-02-11"
+    "value": 912727.0,
+    "updated": "2026-02-18"
   },
   "RRPONTSYD": {
-    "value": 0.632,
-    "updated": "2026-02-19"
+    "value": 0.496,
+    "updated": "2026-02-20"
   },
   "EFFR": {
     "value": 3.64,
@@ -80,12 +80,12 @@
     "updated": "2025-12-01"
   },
   "PCEPI": {
-    "value": 128.093,
-    "updated": "2025-11-01"
+    "value": 128.605,
+    "updated": "2025-12-01"
   },
   "PCEPILFE": {
-    "value": 127.422,
-    "updated": "2025-11-01"
+    "value": 127.918,
+    "updated": "2025-12-01"
   },
   "UNRATE": {
     "value": 4.3,
@@ -148,12 +148,12 @@
     "updated": "2026-01-01"
   },
   "HSN1F": {
-    "value": 737.0,
-    "updated": "2025-10-01"
+    "value": 745.0,
+    "updated": "2025-12-01"
   },
   "UMCSENT": {
-    "value": 52.9,
-    "updated": "2025-12-01"
+    "value": 56.4,
+    "updated": "2026-01-01"
   },
   "GOLDAMGBD228NLBM": {
     "value": null,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-02-19"
+    "updated": "2026-02-20"
   },
   "IRSTCB01GBM156N": {
     "value": null,
