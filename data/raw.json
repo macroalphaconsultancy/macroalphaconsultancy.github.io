@@ -36,8 +36,8 @@
     "updated": "2026-02-18"
   },
   "RRPONTSYD": {
-    "value": 1.159,
-    "updated": "2026-02-25"
+    "value": 3.796,
+    "updated": "2026-02-26"
   },
   "EFFR": {
     "value": 3.64,
@@ -104,12 +104,12 @@
     "updated": "2026-01-01"
   },
   "ICSA": {
-    "value": 206000.0,
-    "updated": "2026-02-14"
+    "value": 212000.0,
+    "updated": "2026-02-21"
   },
   "CCSA": {
-    "value": 1869000.0,
-    "updated": "2026-02-07"
+    "value": 1833000.0,
+    "updated": "2026-02-14"
   },
   "JTSJOL": {
     "value": 6542.0,
@@ -136,8 +136,8 @@
     "updated": "2026-01-01"
   },
   "MORTGAGE30US": {
-    "value": 6.01,
-    "updated": "2026-02-19"
+    "value": 5.98,
+    "updated": "2026-02-26"
   },
   "HOUST": {
     "value": 1404.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-02-25"
+    "updated": "2026-02-26"
   },
   "IRSTCB01GBM156N": {
     "value": null,
