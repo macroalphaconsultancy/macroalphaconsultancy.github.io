@@ -41,7 +41,7 @@
   },
   "EFFR": {
     "value": 3.64,
-    "updated": "2026-02-25"
+    "updated": "2026-02-26"
   },
   "SOFR": {
     "value": 3.67,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 17.93,
-    "updated": "2026-02-25"
+    "value": 18.63,
+    "updated": "2026-02-26"
   },
   "DTWEXBGS": {
     "value": 117.9917,
