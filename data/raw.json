@@ -24,20 +24,20 @@
     "updated": "2026-02-20"
   },
   "WALCL": {
-    "value": 6613395.0,
-    "updated": "2026-02-18"
+    "value": 6613797.0,
+    "updated": "2026-02-25"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 912727.0,
-    "updated": "2026-02-18"
+    "value": 887612.0,
+    "updated": "2026-02-25"
   },
   "RRPONTSYD": {
-    "value": 3.796,
-    "updated": "2026-02-26"
+    "value": 16.318,
+    "updated": "2026-02-27"
   },
   "EFFR": {
     "value": 3.64,
@@ -76,8 +76,8 @@
     "updated": "2026-01-01"
   },
   "PPIFDG": {
-    "value": 146.86,
-    "updated": "2025-12-01"
+    "value": 147.251,
+    "updated": "2026-01-01"
   },
   "PCEPI": {
     "value": 128.605,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-02-26"
+    "updated": "2026-02-27"
   },
   "IRSTCB01GBM156N": {
     "value": null,
