@@ -36,8 +36,8 @@
     "updated": "2026-02-25"
   },
   "RRPONTSYD": {
-    "value": 0.627,
-    "updated": "2026-03-02"
+    "value": 1.203,
+    "updated": "2026-03-03"
   },
   "EFFR": {
     "value": 3.64,
@@ -48,8 +48,8 @@
     "updated": "2026-03-02"
   },
   "ECBASSETSW": {
-    "value": 6234456.0,
-    "updated": "2026-02-20"
+    "value": 6226783.0,
+    "updated": "2026-02-27"
   },
   "JPNASSETSW": {
     "value": null,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-03-02"
+    "updated": "2026-03-03"
   },
   "IRSTCB01GBM156N": {
     "value": null,
