@@ -12,8 +12,8 @@
     "updated": "2026-03-09"
   },
   "DGS30": {
-    "value": 4.72,
-    "updated": "2026-03-09"
+    "value": null,
+    "updated": null
   },
   "DFII10": {
     "value": 1.78,
@@ -248,8 +248,8 @@
     "updated": "2026-01-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.27,
-    "updated": "2026-01-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.2692380952381,
