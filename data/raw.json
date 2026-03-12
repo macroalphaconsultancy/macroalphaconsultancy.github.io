@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 3.57,
-    "updated": "2026-03-10"
+    "value": 3.64,
+    "updated": "2026-03-11"
   },
   "DGS5": {
-    "value": 3.73,
-    "updated": "2026-03-10"
+    "value": 3.79,
+    "updated": "2026-03-11"
   },
   "DGS10": {
-    "value": 4.15,
-    "updated": "2026-03-10"
+    "value": 4.21,
+    "updated": "2026-03-11"
   },
   "DGS30": {
-    "value": 4.78,
-    "updated": "2026-03-10"
+    "value": 4.86,
+    "updated": "2026-03-11"
   },
   "DFII10": {
-    "value": 1.82,
-    "updated": "2026-03-10"
+    "value": 1.85,
+    "updated": "2026-03-11"
   },
   "THREEFYTP10": {
     "value": 0.5487,
@@ -44,8 +44,8 @@
     "updated": "2026-03-11"
   },
   "SOFR": {
-    "value": 3.64,
-    "updated": "2026-03-11"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6176464.0,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 22716.13,
-    "updated": "2026-03-11"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-03-06"
   },
   "DEXUSUK": {
-    "value": 1.3398,
-    "updated": "2026-03-06"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
     "value": 157.64,
