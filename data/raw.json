@@ -44,8 +44,8 @@
     "updated": "2026-03-11"
   },
   "SOFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-03-11"
   },
   "ECBASSETSW": {
     "value": 6176464.0,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 22716.13,
+    "updated": "2026-03-11"
   },
   "RUT": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-03-06"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3398,
+    "updated": "2026-03-06"
   },
   "DEXJPUS": {
     "value": 157.64,
