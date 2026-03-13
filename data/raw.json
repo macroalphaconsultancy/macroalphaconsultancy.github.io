@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 3.64,
-    "updated": "2026-03-11"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
-    "value": 3.79,
-    "updated": "2026-03-11"
+    "value": 3.88,
+    "updated": "2026-03-12"
   },
   "DGS10": {
-    "value": 4.21,
-    "updated": "2026-03-11"
+    "value": 4.27,
+    "updated": "2026-03-12"
   },
   "DGS30": {
-    "value": 4.86,
-    "updated": "2026-03-11"
+    "value": 4.88,
+    "updated": "2026-03-12"
   },
   "DFII10": {
-    "value": 1.85,
-    "updated": "2026-03-11"
+    "value": 1.89,
+    "updated": "2026-03-12"
   },
   "THREEFYTP10": {
     "value": 0.5487,
@@ -44,8 +44,8 @@
     "updated": "2026-03-12"
   },
   "SOFR": {
-    "value": 3.65,
-    "updated": "2026-03-12"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6176464.0,
@@ -160,8 +160,8 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 94.65,
-    "updated": "2026-03-09"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": 94.35,
