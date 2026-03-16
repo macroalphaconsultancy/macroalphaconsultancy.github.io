@@ -36,8 +36,8 @@
     "updated": "2026-03-11"
   },
   "RRPONTSYD": {
-    "value": 0.427,
-    "updated": "2026-03-13"
+    "value": 0.582,
+    "updated": "2026-03-16"
   },
   "EFFR": {
     "value": 3.64,
@@ -120,8 +120,8 @@
     "updated": "2026-01-01"
   },
   "INDPRO": {
-    "value": 102.3412,
-    "updated": "2026-01-01"
+    "value": 102.551,
+    "updated": "2026-02-01"
   },
   "RSXFS": {
     "value": 633709.0,
@@ -132,8 +132,8 @@
     "updated": null
   },
   "TCU": {
-    "value": 76.2119,
-    "updated": "2026-01-01"
+    "value": 76.2946,
+    "updated": "2026-02-01"
   },
   "MORTGAGE30US": {
     "value": 6.11,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-03-13"
+    "updated": "2026-03-16"
   },
   "IRSTCB01GBM156N": {
     "value": null,
