@@ -172,8 +172,8 @@
     "updated": "2026-01-01"
   },
   "DHHNGSP": {
-    "value": 3.03,
-    "updated": "2026-03-16"
+    "value": null,
+    "updated": null
   },
   "SP500": {
     "value": 6506.48,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 26.78,
-    "updated": "2026-03-20"
+    "value": null,
+    "updated": null
   },
   "DTWEXBGS": {
     "value": 120.5518,
@@ -236,8 +236,8 @@
     "updated": "2026-01-01"
   },
   "IRLTLT01FRM156N": {
-    "value": 3.4,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
@@ -252,8 +252,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.18,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
     "value": 2.11,
@@ -276,16 +276,16 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1444,
-    "updated": "2026-03-13"
+    "value": null,
+    "updated": null
   },
   "DEXUSUK": {
     "value": 1.324,
     "updated": "2026-03-13"
   },
   "DEXJPUS": {
-    "value": 159.54,
-    "updated": "2026-03-13"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
     "value": 0.7898,
