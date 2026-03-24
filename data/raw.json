@@ -176,16 +176,16 @@
     "updated": "2026-03-16"
   },
   "SP500": {
-    "value": 6506.48,
-    "updated": "2026-03-20"
+    "value": 6581.0,
+    "updated": "2026-03-23"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 21647.61,
+    "updated": "2026-03-20"
   },
   "RUT": {
     "value": null,
@@ -196,12 +196,12 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": null,
-    "updated": null
+    "value": 26.78,
+    "updated": "2026-03-20"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 120.2757,
+    "updated": "2026-03-20"
   },
   "NIKKEI225": {
     "value": 51515.49,
@@ -232,12 +232,12 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.80666666666667,
+    "updated": "2026-01-01"
   },
   "IRLTLT01FRM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.4,
+    "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
@@ -292,7 +292,7 @@
     "updated": "2026-03-20"
   },
   "DEXCHUS": {
-    "value": null,
-    "updated": null
+    "value": 6.8857,
+    "updated": "2026-03-20"
   }
 }
