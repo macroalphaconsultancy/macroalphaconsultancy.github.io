@@ -8,8 +8,8 @@
     "updated": "2026-03-30"
   },
   "DGS10": {
-    "value": 4.35,
-    "updated": "2026-03-30"
+    "value": null,
+    "updated": null
   },
   "DGS30": {
     "value": 4.91,
@@ -44,8 +44,8 @@
     "updated": "2026-03-30"
   },
   "SOFR": {
-    "value": 3.63,
-    "updated": "2026-03-30"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6155306.0,
@@ -160,8 +160,8 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 89.33,
-    "updated": "2026-03-23"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": 103.79,
@@ -240,8 +240,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": 3.388,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01GBM156N": {
     "value": 4.4324,
