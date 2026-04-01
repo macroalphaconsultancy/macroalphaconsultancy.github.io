@@ -36,8 +36,8 @@
     "updated": "2026-03-25"
   },
   "RRPONTSYD": {
-    "value": 0.752,
-    "updated": "2026-03-30"
+    "value": 2.107,
+    "updated": "2026-04-01"
   },
   "EFFR": {
     "value": 3.64,
@@ -48,8 +48,8 @@
     "updated": "2026-03-31"
   },
   "ECBASSETSW": {
-    "value": 6155306.0,
-    "updated": "2026-03-20"
+    "value": 6162122.0,
+    "updated": "2026-03-27"
   },
   "JPNASSETSW": {
     "value": null,
@@ -76,8 +76,8 @@
     "updated": "2026-02-01"
   },
   "PPIFDG": {
-    "value": 149.694,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "PCEPI": {
     "value": 128.969,
@@ -88,8 +88,8 @@
     "updated": "2026-01-01"
   },
   "UNRATE": {
-    "value": 4.4,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "PAYEMS": {
     "value": 158466.0,
@@ -112,20 +112,20 @@
     "updated": "2026-03-14"
   },
   "JTSJOL": {
-    "value": 6946.0,
-    "updated": "2026-01-01"
+    "value": 6882.0,
+    "updated": "2026-02-01"
   },
   "JTSQUR": {
-    "value": 2.0,
-    "updated": "2026-01-01"
+    "value": 1.9,
+    "updated": "2026-02-01"
   },
   "INDPRO": {
     "value": 102.551,
     "updated": "2026-02-01"
   },
   "RSXFS": {
-    "value": 633709.0,
-    "updated": "2026-01-01"
+    "value": 638224.0,
+    "updated": "2026-02-01"
   },
   "NAPMPI": {
     "value": null,
@@ -152,8 +152,8 @@
     "updated": "2026-01-01"
   },
   "UMCSENT": {
-    "value": 56.6,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "GOLDAMGBD228NLBM": {
     "value": null,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-03-30"
+    "updated": "2026-04-01"
   },
   "IRSTCB01GBM156N": {
     "value": null,
