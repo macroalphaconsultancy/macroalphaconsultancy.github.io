@@ -8,20 +8,20 @@
     "updated": "2026-04-01"
   },
   "DGS10": {
-    "value": 4.33,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "DGS30": {
-    "value": 4.91,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "DFII10": {
     "value": 2.02,
     "updated": "2026-04-01"
   },
   "THREEFYTP10": {
-    "value": 0.7176,
-    "updated": "2026-03-27"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6675344.0,
@@ -40,12 +40,12 @@
     "updated": "2026-04-02"
   },
   "EFFR": {
-    "value": 3.64,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "SOFR": {
-    "value": 3.65,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6162122.0,
@@ -168,8 +168,8 @@
     "updated": "2026-03-30"
   },
   "PCOPPUSDM": {
-    "value": 12951.345,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "DHHNGSP": {
     "value": 2.88,
@@ -252,12 +252,12 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.18,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
-    "value": 2.11,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,19 +280,19 @@
     "updated": "2026-03-27"
   },
   "DEXUSUK": {
-    "value": 1.3293,
-    "updated": "2026-03-27"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
-    "value": 160.16,
-    "updated": "2026-03-27"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
-    "value": 0.797,
-    "updated": "2026-03-27"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
-    "value": 6.9116,
-    "updated": "2026-03-27"
+    "value": null,
+    "updated": null
   }
 }
