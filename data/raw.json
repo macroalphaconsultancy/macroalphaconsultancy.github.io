@@ -8,20 +8,20 @@
     "updated": "2026-04-01"
   },
   "DGS10": {
-    "value": null,
-    "updated": null
+    "value": 4.33,
+    "updated": "2026-04-01"
   },
   "DGS30": {
-    "value": null,
-    "updated": null
+    "value": 4.91,
+    "updated": "2026-04-01"
   },
   "DFII10": {
     "value": 2.02,
     "updated": "2026-04-01"
   },
   "THREEFYTP10": {
-    "value": null,
-    "updated": null
+    "value": 0.7176,
+    "updated": "2026-03-27"
   },
   "WALCL": {
     "value": 6675344.0,
@@ -40,12 +40,12 @@
     "updated": "2026-04-02"
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-04-01"
   },
   "SOFR": {
-    "value": null,
-    "updated": null
+    "value": 3.65,
+    "updated": "2026-04-01"
   },
   "ECBASSETSW": {
     "value": 6162122.0,
@@ -168,16 +168,16 @@
     "updated": "2026-03-30"
   },
   "PCOPPUSDM": {
-    "value": null,
-    "updated": null
+    "value": 12951.345,
+    "updated": "2026-02-01"
   },
   "DHHNGSP": {
     "value": 2.88,
     "updated": "2026-03-30"
   },
   "SP500": {
-    "value": 6575.32,
-    "updated": "2026-04-01"
+    "value": 6582.69,
+    "updated": "2026-04-02"
   },
   "SP500REAL": {
     "value": null,
@@ -252,12 +252,12 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.18,
+    "updated": "2026-02-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.11,
+    "updated": "2026-02-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,19 +280,19 @@
     "updated": "2026-03-27"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3293,
+    "updated": "2026-03-27"
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 160.16,
+    "updated": "2026-03-27"
   },
   "DEXSZUS": {
-    "value": null,
-    "updated": null
+    "value": 0.797,
+    "updated": "2026-03-27"
   },
   "DEXCHUS": {
-    "value": null,
-    "updated": null
+    "value": 6.9116,
+    "updated": "2026-03-27"
   }
 }
