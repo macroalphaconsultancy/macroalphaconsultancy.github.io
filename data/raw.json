@@ -232,8 +232,8 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.80666666666667,
+    "updated": "2026-01-01"
   },
   "IRLTLT01FRM156N": {
     "value": 3.4,
@@ -280,12 +280,12 @@
     "updated": "2026-03-27"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3293,
+    "updated": "2026-03-27"
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 160.16,
+    "updated": "2026-03-27"
   },
   "DEXSZUS": {
     "value": 0.797,
