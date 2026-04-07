@@ -20,8 +20,8 @@
     "updated": "2026-04-03"
   },
   "THREEFYTP10": {
-    "value": 0.7176,
-    "updated": "2026-03-27"
+    "value": 0.672,
+    "updated": "2026-04-03"
   },
   "WALCL": {
     "value": 6675344.0,
@@ -200,8 +200,8 @@
     "updated": "2026-04-06"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 120.6565,
+    "updated": "2026-04-03"
   },
   "NIKKEI225": {
     "value": 53429.56,
@@ -232,12 +232,12 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.80666666666667,
+    "updated": "2026-01-01"
   },
   "IRLTLT01FRM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.4,
+    "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
@@ -256,8 +256,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.11,
+    "updated": "2026-02-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
