@@ -4,16 +4,16 @@
     "updated": "2026-04-06"
   },
   "DGS5": {
-    "value": 3.98,
-    "updated": "2026-04-06"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
-    "value": 4.34,
-    "updated": "2026-04-06"
+    "value": null,
+    "updated": null
   },
   "DGS30": {
-    "value": 4.89,
-    "updated": "2026-04-06"
+    "value": null,
+    "updated": null
   },
   "DFII10": {
     "value": 1.98,
@@ -44,8 +44,8 @@
     "updated": "2026-04-06"
   },
   "SOFR": {
-    "value": 3.65,
-    "updated": "2026-04-06"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6162122.0,
@@ -160,12 +160,12 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 104.69,
-    "updated": "2026-03-30"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
-    "value": 121.88,
-    "updated": "2026-03-30"
+    "value": null,
+    "updated": null
   },
   "PCOPPUSDM": {
     "value": 12951.345,
@@ -280,19 +280,19 @@
     "updated": "2026-04-03"
   },
   "DEXUSUK": {
-    "value": 1.3202,
-    "updated": "2026-04-03"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
     "value": 159.64,
     "updated": "2026-04-03"
   },
   "DEXSZUS": {
-    "value": 0.7999,
-    "updated": "2026-04-03"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
-    "value": 6.8824,
-    "updated": "2026-04-03"
+    "value": null,
+    "updated": null
   }
 }
