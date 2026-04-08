@@ -160,12 +160,12 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 104.69,
-    "updated": "2026-03-30"
+    "value": 114.01,
+    "updated": "2026-04-06"
   },
   "DCOILBRENTEU": {
-    "value": 121.88,
-    "updated": "2026-03-30"
+    "value": 127.61,
+    "updated": "2026-04-02"
   },
   "PCOPPUSDM": {
     "value": 12951.345,
@@ -244,8 +244,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": 4.4324,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CHM156N": {
     "value": 0.25,
