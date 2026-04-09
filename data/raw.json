@@ -40,12 +40,12 @@
     "updated": "2026-04-09"
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-04-08"
   },
   "SOFR": {
-    "value": null,
-    "updated": null
+    "value": 3.59,
+    "updated": "2026-04-08"
   },
   "ECBASSETSW": {
     "value": 6253432.0,
@@ -164,8 +164,8 @@
     "updated": "2026-04-06"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 127.61,
+    "updated": "2026-04-02"
   },
   "PCOPPUSDM": {
     "value": 12951.345,
@@ -176,8 +176,8 @@
     "updated": "2026-04-06"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 6782.81,
+    "updated": "2026-04-08"
   },
   "SP500REAL": {
     "value": null,
@@ -200,8 +200,8 @@
     "updated": "2026-04-08"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 120.6565,
+    "updated": "2026-04-03"
   },
   "NIKKEI225": {
     "value": 55895.32,
