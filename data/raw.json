@@ -40,8 +40,8 @@
     "updated": "2026-04-07"
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-04-08"
   },
   "SOFR": {
     "value": 3.59,
@@ -160,12 +160,12 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": null,
-    "updated": null
+    "value": 114.01,
+    "updated": "2026-04-06"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 127.61,
+    "updated": "2026-04-02"
   },
   "PCOPPUSDM": {
     "value": 12951.345,
@@ -176,16 +176,16 @@
     "updated": "2026-04-06"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 6782.81,
+    "updated": "2026-04-08"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 22635.0,
+    "updated": "2026-04-08"
   },
   "RUT": {
     "value": null,
@@ -200,8 +200,8 @@
     "updated": "2026-04-08"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 120.6565,
+    "updated": "2026-04-03"
   },
   "NIKKEI225": {
     "value": 55895.32,
@@ -244,12 +244,12 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": 4.4324,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CHM156N": {
-    "value": 0.25,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.18,
