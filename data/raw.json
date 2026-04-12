@@ -36,8 +36,8 @@
     "updated": "2026-04-08"
   },
   "RRPONTSYD": {
-    "value": 0.402,
-    "updated": "2026-04-09"
+    "value": 0.507,
+    "updated": "2026-04-10"
   },
   "EFFR": {
     "value": 3.64,
@@ -60,8 +60,8 @@
     "updated": null
   },
   "CPIAUCSL": {
-    "value": null,
-    "updated": null
+    "value": 330.293,
+    "updated": "2026-03-01"
   },
   "CPILFESL": {
     "value": 334.165,
@@ -100,8 +100,8 @@
     "updated": "2026-03-01"
   },
   "CIVPART": {
-    "value": null,
-    "updated": null
+    "value": 61.9,
+    "updated": "2026-03-01"
   },
   "ICSA": {
     "value": 219000.0,
@@ -112,16 +112,16 @@
     "updated": "2026-03-28"
   },
   "JTSJOL": {
-    "value": null,
-    "updated": null
+    "value": 6882.0,
+    "updated": "2026-02-01"
   },
   "JTSQUR": {
     "value": 1.9,
     "updated": "2026-02-01"
   },
   "INDPRO": {
-    "value": null,
-    "updated": null
+    "value": 102.551,
+    "updated": "2026-02-01"
   },
   "RSXFS": {
     "value": 638224.0,
@@ -132,8 +132,8 @@
     "updated": null
   },
   "TCU": {
-    "value": null,
-    "updated": null
+    "value": 76.2946,
+    "updated": "2026-02-01"
   },
   "MORTGAGE30US": {
     "value": 6.37,
@@ -144,12 +144,12 @@
     "updated": "2026-01-01"
   },
   "EXHOSLUSM495S": {
-    "value": null,
-    "updated": null
+    "value": 4090000.0,
+    "updated": "2026-02-01"
   },
   "HSN1F": {
-    "value": null,
-    "updated": null
+    "value": 587.0,
+    "updated": "2026-01-01"
   },
   "UMCSENT": {
     "value": 56.6,
