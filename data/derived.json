@@ -19,12 +19,12 @@
   "INDPRO_MoM": 0.1547000000000054,
   "RSXFS_MoM": 3991.0,
   "HOUST_MoM": 100.0,
-  "UMCSENT_MoM": null,
-  "TCU_MoM": null,
-  "WALCL_WoW": null,
-  "RRP_WoW": null,
-  "TGA_WoW": null,
-  "SP500_1d": null,
-  "VIX_1d": null,
-  "DXY_1d": null
+  "UMCSENT_MoM": 0.20000000000000284,
+  "TCU_MoM": 0.041700000000005844,
+  "WALCL_WoW": 18527.0,
+  "RRP_WoW": -15.039000000000001,
+  "TGA_WoW": -99342.0,
+  "SP500_1d": 69.34999999999945,
+  "VIX_1d": -0.10999999999999943,
+  "DXY_1d": -0.04460000000000264
 }
