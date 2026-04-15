@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 3.78,
-    "updated": "2026-04-13"
+    "value": 3.76,
+    "updated": "2026-04-14"
   },
   "DGS5": {
-    "value": 3.92,
-    "updated": "2026-04-13"
+    "value": 3.87,
+    "updated": "2026-04-14"
   },
   "DGS10": {
-    "value": 4.3,
-    "updated": "2026-04-13"
+    "value": 4.26,
+    "updated": "2026-04-14"
   },
   "DGS30": {
-    "value": 4.9,
-    "updated": "2026-04-13"
+    "value": 4.87,
+    "updated": "2026-04-14"
   },
   "DFII10": {
-    "value": 1.92,
-    "updated": "2026-04-13"
+    "value": 1.89,
+    "updated": "2026-04-14"
   },
   "THREEFYTP10": {
     "value": 0.6518,
@@ -204,8 +204,8 @@
     "updated": "2026-04-10"
   },
   "NIKKEI225": {
-    "value": 58134.24,
-    "updated": "2026-04-15"
+    "value": null,
+    "updated": null
   },
   "SHCOMP": {
     "value": null,
@@ -232,8 +232,8 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.80666666666667,
-    "updated": "2026-01-01"
+    "value": 2.9052380952,
+    "updated": "2026-03-01"
   },
   "IRLTLT01FRM156N": {
     "value": 3.4,
@@ -244,20 +244,20 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": 4.4324,
-    "updated": "2026-02-01"
+    "value": 4.7007,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.25,
-    "updated": "2026-02-01"
+    "value": 0.4,
+    "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.18,
-    "updated": "2026-02-01"
+    "value": 3.37814285714286,
+    "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": 2.11,
-    "updated": "2026-02-01"
+    "value": 2.345,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
