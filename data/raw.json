@@ -1,27 +1,27 @@
 {
   "DGS2": {
-    "value": 3.76,
-    "updated": "2026-04-14"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
-    "value": 3.87,
-    "updated": "2026-04-14"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
     "value": 4.26,
     "updated": "2026-04-14"
   },
   "DGS30": {
-    "value": 4.87,
-    "updated": "2026-04-14"
+    "value": null,
+    "updated": null
   },
   "DFII10": {
     "value": 1.89,
     "updated": "2026-04-14"
   },
   "THREEFYTP10": {
-    "value": 0.6518,
-    "updated": "2026-04-10"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6693871.0,
@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.64,
-    "updated": "2026-04-14"
+    "updated": "2026-04-15"
   },
   "SOFR": {
-    "value": 3.66,
-    "updated": "2026-04-14"
+    "value": 3.72,
+    "updated": "2026-04-15"
   },
   "ECBASSETSW": {
     "value": 6246927.0,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 18.36,
-    "updated": "2026-04-14"
+    "value": 18.17,
+    "updated": "2026-04-15"
   },
   "DTWEXBGS": {
     "value": 118.8552,
     "updated": "2026-04-10"
   },
   "NIKKEI225": {
-    "value": 58134.24,
-    "updated": "2026-04-15"
+    "value": 59518.34,
+    "updated": "2026-04-16"
   },
   "SHCOMP": {
     "value": null,
