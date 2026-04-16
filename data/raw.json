@@ -24,20 +24,20 @@
     "updated": null
   },
   "WALCL": {
-    "value": 6693871.0,
-    "updated": "2026-04-08"
+    "value": 6705696.0,
+    "updated": "2026-04-15"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 748376.0,
-    "updated": "2026-04-08"
+    "value": 751354.0,
+    "updated": "2026-04-15"
   },
   "RRPONTSYD": {
-    "value": 0.223,
-    "updated": "2026-04-15"
+    "value": 0.158,
+    "updated": "2026-04-16"
   },
   "EFFR": {
     "value": 3.64,
@@ -104,12 +104,12 @@
     "updated": "2026-03-01"
   },
   "ICSA": {
-    "value": 219000.0,
-    "updated": "2026-04-04"
+    "value": 207000.0,
+    "updated": "2026-04-11"
   },
   "CCSA": {
-    "value": 1794000.0,
-    "updated": "2026-03-28"
+    "value": 1818000.0,
+    "updated": "2026-04-04"
   },
   "JTSJOL": {
     "value": 6882.0,
@@ -120,8 +120,8 @@
     "updated": "2026-02-01"
   },
   "INDPRO": {
-    "value": 102.551,
-    "updated": "2026-02-01"
+    "value": 101.7898,
+    "updated": "2026-03-01"
   },
   "RSXFS": {
     "value": 638224.0,
@@ -132,12 +132,12 @@
     "updated": null
   },
   "TCU": {
-    "value": 76.2946,
-    "updated": "2026-02-01"
+    "value": 75.6596,
+    "updated": "2026-03-01"
   },
   "MORTGAGE30US": {
-    "value": 6.37,
-    "updated": "2026-04-09"
+    "value": 6.3,
+    "updated": "2026-04-16"
   },
   "HOUST": {
     "value": 1487.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-04-15"
+    "updated": "2026-04-16"
   },
   "IRSTCB01GBM156N": {
     "value": null,
