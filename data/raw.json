@@ -20,8 +20,8 @@
     "updated": "2026-04-15"
   },
   "THREEFYTP10": {
-    "value": 0.6518,
-    "updated": "2026-04-10"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6705696.0,
@@ -44,8 +44,8 @@
     "updated": "2026-04-15"
   },
   "SOFR": {
-    "value": 3.72,
-    "updated": "2026-04-15"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6246927.0,
@@ -248,16 +248,16 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.4,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
     "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": 2.345,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
