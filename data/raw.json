@@ -8,12 +8,12 @@
     "updated": "2026-04-15"
   },
   "DGS10": {
-    "value": null,
-    "updated": null
+    "value": 4.29,
+    "updated": "2026-04-15"
   },
   "DGS30": {
-    "value": null,
-    "updated": null
+    "value": 4.89,
+    "updated": "2026-04-15"
   },
   "DFII10": {
     "value": 1.9,
@@ -160,32 +160,32 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": null,
-    "updated": null
+    "value": 100.72,
+    "updated": "2026-04-13"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 123.28,
+    "updated": "2026-04-13"
   },
   "PCOPPUSDM": {
     "value": 12528.70954545455,
     "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 2.79,
+    "updated": "2026-04-13"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7022.95,
+    "updated": "2026-04-15"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 24102.7,
+    "updated": "2026-04-16"
   },
   "RUT": {
     "value": null,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": null,
-    "updated": null
+    "value": 17.94,
+    "updated": "2026-04-16"
   },
   "DTWEXBGS": {
     "value": 118.8552,
@@ -240,8 +240,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.388,
+    "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
     "value": 4.7007,
