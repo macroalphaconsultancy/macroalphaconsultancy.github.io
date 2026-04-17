@@ -40,8 +40,8 @@
     "updated": "2026-04-17"
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.64,
+    "updated": "2026-04-16"
   },
   "SOFR": {
     "value": 3.67,
@@ -164,16 +164,16 @@
     "updated": "2026-04-13"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 123.28,
+    "updated": "2026-04-13"
   },
   "PCOPPUSDM": {
-    "value": null,
-    "updated": null
+    "value": 12528.70954545455,
+    "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 2.79,
+    "updated": "2026-04-13"
   },
   "SP500": {
     "value": 7022.95,
