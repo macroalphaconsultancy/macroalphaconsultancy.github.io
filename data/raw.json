@@ -1,15 +1,15 @@
 {
   "DGS2": {
-    "value": 3.76,
-    "updated": "2026-04-15"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
     "value": 3.9,
     "updated": "2026-04-15"
   },
   "DGS10": {
-    "value": 4.29,
-    "updated": "2026-04-15"
+    "value": null,
+    "updated": null
   },
   "DGS30": {
     "value": 4.89,
@@ -240,24 +240,24 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": 3.388,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01GBM156N": {
     "value": 4.7007,
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.4,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
     "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": 2.345,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
