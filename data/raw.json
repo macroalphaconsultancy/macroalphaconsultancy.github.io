@@ -1,11 +1,11 @@
 {
   "DGS2": {
-    "value": null,
-    "updated": null
+    "value": 3.78,
+    "updated": "2026-04-16"
   },
   "DGS5": {
-    "value": null,
-    "updated": null
+    "value": 3.91,
+    "updated": "2026-04-16"
   },
   "DGS10": {
     "value": 4.32,
@@ -240,8 +240,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.388,
+    "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
     "value": 4.7007,
@@ -284,8 +284,8 @@
     "updated": "2026-04-10"
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 159.22,
+    "updated": "2026-04-10"
   },
   "DEXSZUS": {
     "value": 0.7893,
