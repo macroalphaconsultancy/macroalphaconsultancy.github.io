@@ -1,11 +1,11 @@
 {
   "DGS2": {
-    "value": 3.78,
-    "updated": "2026-04-16"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
-    "value": 3.91,
-    "updated": "2026-04-16"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
     "value": 4.32,
@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.64,
-    "updated": "2026-04-16"
+    "updated": "2026-04-17"
   },
   "SOFR": {
-    "value": 3.67,
-    "updated": "2026-04-16"
+    "value": 3.65,
+    "updated": "2026-04-17"
   },
   "ECBASSETSW": {
     "value": 6246927.0,
@@ -176,16 +176,16 @@
     "updated": "2026-04-13"
   },
   "SP500": {
-    "value": 7022.95,
-    "updated": "2026-04-15"
+    "value": 7126.06,
+    "updated": "2026-04-17"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 24102.7,
-    "updated": "2026-04-16"
+    "value": 24468.48,
+    "updated": "2026-04-17"
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 17.94,
-    "updated": "2026-04-16"
+    "value": 17.48,
+    "updated": "2026-04-17"
   },
   "DTWEXBGS": {
     "value": 118.8552,
     "updated": "2026-04-10"
   },
   "NIKKEI225": {
-    "value": 58475.9,
-    "updated": "2026-04-17"
+    "value": 58824.89,
+    "updated": "2026-04-20"
   },
   "SHCOMP": {
     "value": null,
@@ -240,8 +240,8 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": 3.388,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01GBM156N": {
     "value": 4.7007,
@@ -284,8 +284,8 @@
     "updated": "2026-04-10"
   },
   "DEXJPUS": {
-    "value": 159.22,
-    "updated": "2026-04-10"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
     "value": 0.7893,
