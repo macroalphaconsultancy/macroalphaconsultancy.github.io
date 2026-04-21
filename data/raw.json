@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 3.71,
-    "updated": "2026-04-17"
+    "value": 3.72,
+    "updated": "2026-04-20"
   },
   "DGS5": {
-    "value": 3.84,
-    "updated": "2026-04-17"
+    "value": 3.86,
+    "updated": "2026-04-20"
   },
   "DGS10": {
     "value": 4.26,
-    "updated": "2026-04-17"
+    "updated": "2026-04-20"
   },
   "DGS30": {
     "value": 4.88,
-    "updated": "2026-04-17"
+    "updated": "2026-04-20"
   },
   "DFII10": {
-    "value": 1.9,
-    "updated": "2026-04-17"
+    "value": 1.91,
+    "updated": "2026-04-20"
   },
   "THREEFYTP10": {
     "value": 0.6158,
@@ -284,15 +284,15 @@
     "updated": "2026-04-17"
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 158.1,
+    "updated": "2026-04-17"
   },
   "DEXSZUS": {
     "value": 0.7795,
     "updated": "2026-04-17"
   },
   "DEXCHUS": {
-    "value": null,
-    "updated": null
+    "value": 6.817,
+    "updated": "2026-04-17"
   }
 }
