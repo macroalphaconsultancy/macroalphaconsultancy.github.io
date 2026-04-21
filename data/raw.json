@@ -20,8 +20,8 @@
     "updated": "2026-04-17"
   },
   "THREEFYTP10": {
-    "value": 0.6518,
-    "updated": "2026-04-10"
+    "value": 0.6158,
+    "updated": "2026-04-17"
   },
   "WALCL": {
     "value": 6705696.0,
@@ -240,24 +240,24 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.388,
+    "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": null,
-    "updated": null
+    "value": 4.7007,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": null,
-    "updated": null
+    "value": 0.4,
+    "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
     "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.345,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -284,15 +284,15 @@
     "updated": "2026-04-17"
   },
   "DEXJPUS": {
-    "value": 158.1,
-    "updated": "2026-04-17"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
     "value": 0.7795,
     "updated": "2026-04-17"
   },
   "DEXCHUS": {
-    "value": 6.817,
-    "updated": "2026-04-17"
+    "value": null,
+    "updated": null
   }
 }
