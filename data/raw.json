@@ -200,8 +200,8 @@
     "updated": "2026-04-22"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 118.0795,
+    "updated": "2026-04-17"
   },
   "NIKKEI225": {
     "value": 59140.23,
@@ -236,16 +236,16 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01FRM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.4,
+    "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
     "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": null,
-    "updated": null
+    "value": 4.7007,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
     "value": 0.4,
@@ -276,8 +276,8 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": null,
-    "updated": null
+    "value": 1.1801,
+    "updated": "2026-04-17"
   },
   "DEXUSUK": {
     "value": 1.3556,
