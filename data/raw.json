@@ -1,11 +1,11 @@
 {
   "DGS2": {
-    "value": 3.79,
-    "updated": "2026-04-22"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
-    "value": 3.91,
-    "updated": "2026-04-22"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
     "value": 4.3,
@@ -20,8 +20,8 @@
     "updated": "2026-04-22"
   },
   "THREEFYTP10": {
-    "value": 0.6158,
-    "updated": "2026-04-17"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6705696.0,
@@ -160,8 +160,8 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 91.06,
-    "updated": "2026-04-20"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": 103.4,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 24438.5,
-    "updated": "2026-04-23"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 19.31,
-    "updated": "2026-04-23"
+    "value": null,
+    "updated": null
   },
   "DTWEXBGS": {
-    "value": 118.0795,
-    "updated": "2026-04-17"
+    "value": null,
+    "updated": null
   },
   "NIKKEI225": {
-    "value": 59716.18,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "SHCOMP": {
     "value": null,
