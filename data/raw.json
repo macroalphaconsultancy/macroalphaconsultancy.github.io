@@ -1,7 +1,7 @@
 {
   "DGS2": {
-    "value": 3.78,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
     "value": 3.92,
@@ -40,12 +40,12 @@
     "updated": "2026-04-24"
   },
   "EFFR": {
-    "value": 3.64,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "SOFR": {
     "value": 3.66,
-    "updated": "2026-04-24"
+    "updated": "2026-04-27"
   },
   "ECBASSETSW": {
     "value": 6218303.0,
@@ -164,12 +164,12 @@
     "updated": "2026-04-20"
   },
   "DCOILBRENTEU": {
-    "value": 103.4,
-    "updated": "2026-04-20"
+    "value": null,
+    "updated": null
   },
   "PCOPPUSDM": {
-    "value": 12528.70954545455,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "DHHNGSP": {
     "value": 2.81,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 18.71,
-    "updated": "2026-04-24"
+    "value": 18.02,
+    "updated": "2026-04-27"
   },
   "DTWEXBGS": {
     "value": 118.7294,
     "updated": "2026-04-24"
   },
   "NIKKEI225": {
-    "value": 60537.36,
-    "updated": "2026-04-27"
+    "value": 59917.46,
+    "updated": "2026-04-28"
   },
   "SHCOMP": {
     "value": null,
@@ -248,8 +248,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.4,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
@@ -276,8 +276,8 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1718,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXUSUK": {
     "value": 1.3518,
