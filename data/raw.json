@@ -20,8 +20,8 @@
     "updated": "2026-04-24"
   },
   "THREEFYTP10": {
-    "value": 0.6158,
-    "updated": "2026-04-17"
+    "value": 0.6476,
+    "updated": "2026-04-24"
   },
   "WALCL": {
     "value": 6707419.0,
@@ -160,8 +160,8 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 91.06,
-    "updated": "2026-04-20"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": null,
@@ -176,8 +176,8 @@
     "updated": "2026-04-20"
   },
   "SP500": {
-    "value": 7173.91,
-    "updated": "2026-04-27"
+    "value": null,
+    "updated": null
   },
   "SP500REAL": {
     "value": null,
@@ -248,16 +248,16 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": null,
-    "updated": null
+    "value": 0.4,
+    "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.37814285714286,
+    "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.345,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-04-24"
   },
   "DEXUSUK": {
-    "value": 1.3518,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
     "value": 159.35,
@@ -292,7 +292,7 @@
     "updated": "2026-04-24"
   },
   "DEXCHUS": {
-    "value": 6.8359,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   }
 }
