@@ -1,23 +1,23 @@
 {
   "DGS2": {
     "value": 3.78,
-    "updated": "2026-04-24"
+    "updated": "2026-04-27"
   },
   "DGS5": {
-    "value": 3.92,
-    "updated": "2026-04-24"
+    "value": 3.94,
+    "updated": "2026-04-27"
   },
   "DGS10": {
-    "value": 4.31,
-    "updated": "2026-04-24"
+    "value": 4.35,
+    "updated": "2026-04-27"
   },
   "DGS30": {
-    "value": 4.91,
-    "updated": "2026-04-24"
+    "value": 4.94,
+    "updated": "2026-04-27"
   },
   "DFII10": {
-    "value": 1.89,
-    "updated": "2026-04-24"
+    "value": 1.91,
+    "updated": "2026-04-27"
   },
   "THREEFYTP10": {
     "value": 0.6476,
@@ -160,24 +160,24 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": null,
-    "updated": null
+    "value": 91.06,
+    "updated": "2026-04-20"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 103.4,
+    "updated": "2026-04-20"
   },
   "PCOPPUSDM": {
-    "value": null,
-    "updated": null
+    "value": 12528.70954545455,
+    "updated": "2026-03-01"
   },
   "DHHNGSP": {
     "value": 2.81,
     "updated": "2026-04-20"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7173.91,
+    "updated": "2026-04-27"
   },
   "SP500REAL": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-04-24"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3518,
+    "updated": "2026-04-24"
   },
   "DEXJPUS": {
     "value": 159.35,
@@ -292,7 +292,7 @@
     "updated": "2026-04-24"
   },
   "DEXCHUS": {
-    "value": null,
-    "updated": null
+    "value": 6.8359,
+    "updated": "2026-04-24"
   }
 }
