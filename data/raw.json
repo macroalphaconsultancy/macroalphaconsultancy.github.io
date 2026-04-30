@@ -196,12 +196,12 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": null,
-    "updated": null
+    "value": 18.81,
+    "updated": "2026-04-29"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 118.7294,
+    "updated": "2026-04-24"
   },
   "NIKKEI225": {
     "value": 59284.92,
@@ -232,16 +232,16 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.9052380952,
+    "updated": "2026-03-01"
   },
   "IRLTLT01FRM156N": {
     "value": 3.4,
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.388,
+    "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
     "value": 4.7007,
