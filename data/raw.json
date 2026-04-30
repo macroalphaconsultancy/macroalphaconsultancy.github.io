@@ -4,8 +4,8 @@
     "updated": "2026-04-29"
   },
   "DGS5": {
-    "value": null,
-    "updated": null
+    "value": 4.05,
+    "updated": "2026-04-29"
   },
   "DGS10": {
     "value": 4.42,
@@ -204,8 +204,8 @@
     "updated": "2026-04-24"
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 59284.92,
+    "updated": "2026-04-30"
   },
   "SHCOMP": {
     "value": null,
@@ -252,8 +252,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.37814285714286,
+    "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
     "value": 2.345,
