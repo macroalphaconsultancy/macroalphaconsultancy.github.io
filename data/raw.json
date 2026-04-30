@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 3.84,
-    "updated": "2026-04-28"
+    "value": 3.92,
+    "updated": "2026-04-29"
   },
   "DGS5": {
     "value": null,
     "updated": null
   },
   "DGS10": {
-    "value": 4.36,
-    "updated": "2026-04-28"
+    "value": 4.42,
+    "updated": "2026-04-29"
   },
   "DGS30": {
-    "value": 4.94,
-    "updated": "2026-04-28"
+    "value": 4.98,
+    "updated": "2026-04-29"
   },
   "DFII10": {
-    "value": 1.92,
-    "updated": "2026-04-28"
+    "value": 1.96,
+    "updated": "2026-04-29"
   },
   "THREEFYTP10": {
     "value": 0.6476,
@@ -204,8 +204,8 @@
     "updated": "2026-04-24"
   },
   "NIKKEI225": {
-    "value": 59284.92,
-    "updated": "2026-04-30"
+    "value": null,
+    "updated": null
   },
   "SHCOMP": {
     "value": null,
@@ -252,8 +252,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.37814285714286,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
     "value": 2.345,
