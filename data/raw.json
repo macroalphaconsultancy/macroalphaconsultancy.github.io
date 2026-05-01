@@ -8,12 +8,12 @@
     "updated": "2026-04-29"
   },
   "DGS10": {
-    "value": 4.42,
-    "updated": "2026-04-29"
+    "value": null,
+    "updated": null
   },
   "DGS30": {
-    "value": 4.98,
-    "updated": "2026-04-29"
+    "value": null,
+    "updated": null
   },
   "DFII10": {
     "value": 1.96,
@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.64,
-    "updated": "2026-04-29"
+    "updated": "2026-04-30"
   },
   "SOFR": {
-    "value": 3.63,
-    "updated": "2026-04-29"
+    "value": 3.66,
+    "updated": "2026-04-30"
   },
   "ECBASSETSW": {
     "value": 6215651.0,
@@ -172,20 +172,20 @@
     "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": 2.72,
-    "updated": "2026-04-27"
+    "value": null,
+    "updated": null
   },
   "SP500": {
-    "value": 7209.01,
-    "updated": "2026-04-30"
+    "value": null,
+    "updated": null
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 24892.31,
-    "updated": "2026-04-30"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 18.81,
-    "updated": "2026-04-29"
+    "value": 16.89,
+    "updated": "2026-04-30"
   },
   "DTWEXBGS": {
-    "value": 118.7294,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "NIKKEI225": {
-    "value": 59284.92,
-    "updated": "2026-04-30"
+    "value": null,
+    "updated": null
   },
   "SHCOMP": {
     "value": null,
@@ -236,8 +236,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01FRM156N": {
-    "value": 3.4,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
@@ -248,8 +248,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.4,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
@@ -276,23 +276,23 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1718,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXUSUK": {
-    "value": 1.3518,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
-    "value": 159.35,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
-    "value": 0.7848,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
-    "value": 6.8359,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   }
 }
