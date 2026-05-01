@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 24892.31,
+    "updated": "2026-04-30"
   },
   "RUT": {
     "value": null,
@@ -256,8 +256,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.345,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-04-24"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3518,
+    "updated": "2026-04-24"
   },
   "DEXJPUS": {
     "value": 159.35,
