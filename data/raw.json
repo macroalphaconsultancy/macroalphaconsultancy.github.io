@@ -176,16 +176,16 @@
     "updated": "2026-04-27"
   },
   "SP500": {
-    "value": 7209.01,
-    "updated": "2026-04-30"
+    "value": 7230.12,
+    "updated": "2026-05-01"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 24892.31,
-    "updated": "2026-04-30"
+    "value": 25114.44,
+    "updated": "2026-05-01"
   },
   "RUT": {
     "value": null,
@@ -232,12 +232,12 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.9052380952,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01FRM156N": {
-    "value": 3.4,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
@@ -248,16 +248,16 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.4,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
-    "value": 3.37814285714286,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
-    "value": 2.345,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,16 +280,16 @@
     "updated": "2026-04-24"
   },
   "DEXUSUK": {
-    "value": 1.3518,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
     "value": 159.35,
     "updated": "2026-04-24"
   },
   "DEXSZUS": {
-    "value": 0.7848,
-    "updated": "2026-04-24"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
     "value": 6.8359,
