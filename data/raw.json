@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 3.88,
-    "updated": "2026-05-01"
+    "value": 3.95,
+    "updated": "2026-05-04"
   },
   "DGS5": {
-    "value": 4.02,
-    "updated": "2026-05-01"
+    "value": 4.08,
+    "updated": "2026-05-04"
   },
   "DGS10": {
-    "value": 4.39,
-    "updated": "2026-05-01"
+    "value": 4.45,
+    "updated": "2026-05-04"
   },
   "DGS30": {
-    "value": 4.97,
-    "updated": "2026-05-01"
+    "value": 5.02,
+    "updated": "2026-05-04"
   },
   "DFII10": {
-    "value": 1.91,
-    "updated": "2026-05-01"
+    "value": 1.95,
+    "updated": "2026-05-04"
   },
   "THREEFYTP10": {
     "value": 0.7036,
@@ -172,12 +172,12 @@
     "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 2.72,
+    "updated": "2026-04-27"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7200.75,
+    "updated": "2026-05-04"
   },
   "SP500REAL": {
     "value": null,
@@ -204,8 +204,8 @@
     "updated": "2026-05-01"
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 59513.12,
+    "updated": "2026-05-01"
   },
   "SHCOMP": {
     "value": null,
@@ -248,8 +248,8 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": null,
-    "updated": null
+    "value": 0.4,
+    "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
