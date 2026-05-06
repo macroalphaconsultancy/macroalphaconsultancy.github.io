@@ -36,8 +36,8 @@
     "updated": "2026-04-29"
   },
   "RRPONTSYD": {
-    "value": 0.618,
-    "updated": "2026-05-04"
+    "value": 1.633,
+    "updated": "2026-05-06"
   },
   "EFFR": {
     "value": 3.64,
@@ -48,8 +48,8 @@
     "updated": "2026-05-05"
   },
   "ECBASSETSW": {
-    "value": 6215651.0,
-    "updated": "2026-04-24"
+    "value": 6196001.0,
+    "updated": "2026-05-01"
   },
   "JPNASSETSW": {
     "value": null,
@@ -72,12 +72,12 @@
     "updated": "2026-03-01"
   },
   "CUSR0000SEHA": {
-    "value": 442.705,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "PPIFDG": {
-    "value": 152.664,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "PCEPI": {
     "value": 130.344,
@@ -112,12 +112,12 @@
     "updated": "2026-04-18"
   },
   "JTSJOL": {
-    "value": 6882.0,
-    "updated": "2026-02-01"
+    "value": 6866.0,
+    "updated": "2026-03-01"
   },
   "JTSQUR": {
-    "value": 1.9,
-    "updated": "2026-02-01"
+    "value": 2.0,
+    "updated": "2026-03-01"
   },
   "INDPRO": {
     "value": 101.7898,
@@ -144,12 +144,12 @@
     "updated": "2026-03-01"
   },
   "EXHOSLUSM495S": {
-    "value": 3980000.0,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "HSN1F": {
-    "value": 587.0,
-    "updated": "2026-01-01"
+    "value": 682.0,
+    "updated": "2026-03-01"
   },
   "UMCSENT": {
     "value": 53.3,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-05-04"
+    "updated": "2026-05-06"
   },
   "IRSTCB01GBM156N": {
     "value": null,
