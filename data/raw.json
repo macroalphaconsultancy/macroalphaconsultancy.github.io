@@ -248,12 +248,12 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
-    "value": null,
-    "updated": null
+    "value": 0.4,
+    "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.37814285714286,
+    "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
     "value": 2.345,
@@ -276,20 +276,20 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": null,
-    "updated": null
+    "value": 1.1755,
+    "updated": "2026-05-01"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3621,
+    "updated": "2026-05-01"
   },
   "DEXJPUS": {
     "value": null,
     "updated": null
   },
   "DEXSZUS": {
-    "value": null,
-    "updated": null
+    "value": 0.7796,
+    "updated": "2026-05-01"
   },
   "DEXCHUS": {
     "value": 6.8276,
