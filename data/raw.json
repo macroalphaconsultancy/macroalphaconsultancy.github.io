@@ -176,16 +176,16 @@
     "updated": "2026-05-04"
   },
   "SP500": {
-    "value": 7259.22,
-    "updated": "2026-05-05"
+    "value": 7365.12,
+    "updated": "2026-05-06"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 25326.13,
-    "updated": "2026-05-05"
+    "value": 25838.94,
+    "updated": "2026-05-06"
   },
   "RUT": {
     "value": null,
