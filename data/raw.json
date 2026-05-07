@@ -160,24 +160,24 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": null,
-    "updated": null
+    "value": 109.76,
+    "updated": "2026-05-04"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 118.26,
+    "updated": "2026-05-01"
   },
   "PCOPPUSDM": {
     "value": 12528.70954545455,
     "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 2.67,
+    "updated": "2026-05-04"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7365.12,
+    "updated": "2026-05-06"
   },
   "SP500REAL": {
     "value": null,
@@ -204,8 +204,8 @@
     "updated": "2026-05-01"
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 62833.84,
+    "updated": "2026-05-07"
   },
   "SHCOMP": {
     "value": null,
@@ -232,32 +232,32 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.9052380952,
+    "updated": "2026-03-01"
   },
   "IRLTLT01FRM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.4,
+    "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
     "value": 3.388,
     "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": null,
-    "updated": null
+    "value": 4.7007,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
     "value": 0.4,
     "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.37814285714286,
+    "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.345,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,16 +280,16 @@
     "updated": "2026-05-01"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3621,
+    "updated": "2026-05-01"
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 156.76,
+    "updated": "2026-05-01"
   },
   "DEXSZUS": {
-    "value": null,
-    "updated": null
+    "value": 0.7796,
+    "updated": "2026-05-01"
   },
   "DEXCHUS": {
     "value": 6.8276,
