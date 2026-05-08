@@ -20,11 +20,11 @@
   "RSXFS_MoM": 12152.0,
   "HOUST_MoM": 146.0,
   "UMCSENT_MoM": -3.3000000000000043,
-  "TCU_MoM": null,
-  "WALCL_WoW": null,
-  "RRP_WoW": null,
-  "TGA_WoW": null,
-  "SP500_1d": null,
-  "VIX_1d": null,
-  "DXY_1d": null
+  "TCU_MoM": -0.48109999999999786,
+  "WALCL_WoW": 9555.0,
+  "RRP_WoW": 0.18000000000000005,
+  "TGA_WoW": -104168.0,
+  "SP500_1d": -28.01000000000022,
+  "VIX_1d": -0.3100000000000023,
+  "DXY_1d": -0.27840000000000487
 }
