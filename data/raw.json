@@ -284,15 +284,15 @@
     "updated": "2026-05-01"
   },
   "DEXJPUS": {
-    "value": 156.76,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
     "value": 0.7796,
     "updated": "2026-05-01"
   },
   "DEXCHUS": {
-    "value": 6.8276,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   }
 }
