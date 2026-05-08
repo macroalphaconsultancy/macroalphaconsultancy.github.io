@@ -20,8 +20,8 @@
     "updated": "2026-05-06"
   },
   "THREEFYTP10": {
-    "value": 0.7036,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6709505.0,
@@ -44,8 +44,8 @@
     "updated": "2026-05-06"
   },
   "SOFR": {
-    "value": 3.61,
-    "updated": "2026-05-06"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6196001.0,
