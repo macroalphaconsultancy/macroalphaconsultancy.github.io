@@ -4,8 +4,8 @@
     "updated": "2026-05-07"
   },
   "DGS5": {
-    "value": 4.04,
-    "updated": "2026-05-07"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
     "value": 4.41,
@@ -20,8 +20,8 @@
     "updated": "2026-05-07"
   },
   "THREEFYTP10": {
-    "value": 0.7036,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6709505.0,
@@ -40,12 +40,12 @@
     "updated": "2026-05-08"
   },
   "EFFR": {
-    "value": 3.63,
-    "updated": "2026-05-07"
+    "value": null,
+    "updated": null
   },
   "SOFR": {
-    "value": 3.6,
-    "updated": "2026-05-07"
+    "value": null,
+    "updated": null
   },
   "ECBASSETSW": {
     "value": 6196001.0,
@@ -164,8 +164,8 @@
     "updated": "2026-05-04"
   },
   "DCOILBRENTEU": {
-    "value": 118.26,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   },
   "PCOPPUSDM": {
     "value": 12528.70954545455,
@@ -176,8 +176,8 @@
     "updated": "2026-05-04"
   },
   "SP500": {
-    "value": 7398.93,
-    "updated": "2026-05-08"
+    "value": null,
+    "updated": null
   },
   "SP500REAL": {
     "value": null,
@@ -200,8 +200,8 @@
     "updated": "2026-05-07"
   },
   "DTWEXBGS": {
-    "value": 118.3926,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   },
   "NIKKEI225": {
     "value": 62713.65,
@@ -232,16 +232,16 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.9052380952,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01FRM156N": {
-    "value": 3.4,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ITM156N": {
-    "value": 3.388,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01GBM156N": {
     "value": 4.7007,
@@ -252,12 +252,12 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.37814285714286,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
-    "value": 2.345,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-05-01"
   },
   "DEXUSUK": {
-    "value": 1.3621,
-    "updated": "2026-05-01"
+    "value": null,
+    "updated": null
   },
   "DEXJPUS": {
     "value": 156.76,
