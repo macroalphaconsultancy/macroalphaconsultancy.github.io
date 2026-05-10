@@ -8,8 +8,8 @@
     "updated": "2026-05-07"
   },
   "DGS10": {
-    "value": null,
-    "updated": null
+    "value": 4.41,
+    "updated": "2026-05-07"
   },
   "DGS30": {
     "value": 4.97,
@@ -200,12 +200,12 @@
     "updated": "2026-05-07"
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 118.3926,
+    "updated": "2026-05-01"
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 62713.65,
+    "updated": "2026-05-08"
   },
   "SHCOMP": {
     "value": null,
@@ -288,8 +288,8 @@
     "updated": "2026-05-01"
   },
   "DEXSZUS": {
-    "value": null,
-    "updated": null
+    "value": 0.7796,
+    "updated": "2026-05-01"
   },
   "DEXCHUS": {
     "value": 6.8276,
