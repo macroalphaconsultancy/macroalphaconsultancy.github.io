@@ -36,8 +36,8 @@
     "updated": "2026-05-06"
   },
   "RRPONTSYD": {
-    "value": 0.787,
-    "updated": "2026-05-08"
+    "value": 1.133,
+    "updated": "2026-05-11"
   },
   "EFFR": {
     "value": 3.63,
@@ -144,8 +144,8 @@
     "updated": "2026-03-01"
   },
   "EXHOSLUSM495S": {
-    "value": 3980000.0,
-    "updated": "2026-03-01"
+    "value": 4020000.0,
+    "updated": "2026-04-01"
   },
   "HSN1F": {
     "value": 682.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-05-08"
+    "updated": "2026-05-11"
   },
   "IRSTCB01GBM156N": {
     "value": null,
