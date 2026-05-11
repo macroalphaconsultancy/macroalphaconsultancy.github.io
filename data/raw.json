@@ -4,8 +4,8 @@
     "updated": "2026-05-08"
   },
   "DGS5": {
-    "value": 4.04,
-    "updated": "2026-05-07"
+    "value": 4.02,
+    "updated": "2026-05-08"
   },
   "DGS10": {
     "value": 4.38,
@@ -292,7 +292,7 @@
     "updated": "2026-05-08"
   },
   "DEXCHUS": {
-    "value": null,
-    "updated": null
+    "value": 6.8005,
+    "updated": "2026-05-08"
   }
 }
