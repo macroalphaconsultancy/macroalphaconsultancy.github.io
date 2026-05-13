@@ -1,11 +1,11 @@
 {
   "DGS2": {
-    "value": 3.95,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
-    "value": 4.07,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
     "value": 4.42,
@@ -16,8 +16,8 @@
     "updated": "2026-05-11"
   },
   "DFII10": {
-    "value": 1.95,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "THREEFYTP10": {
     "value": 0.6999,
@@ -176,16 +176,16 @@
     "updated": "2026-05-04"
   },
   "SP500": {
-    "value": 7412.84,
-    "updated": "2026-05-11"
+    "value": 7400.96,
+    "updated": "2026-05-12"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26274.13,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 18.38,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "DTWEXBGS": {
-    "value": 118.0392,
-    "updated": "2026-05-08"
+    "value": null,
+    "updated": null
   },
   "NIKKEI225": {
-    "value": 62742.57,
-    "updated": "2026-05-12"
+    "value": null,
+    "updated": null
   },
   "SHCOMP": {
     "value": null,
@@ -288,11 +288,11 @@
     "updated": "2026-05-08"
   },
   "DEXSZUS": {
-    "value": 0.7773,
-    "updated": "2026-05-08"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
-    "value": 6.8005,
-    "updated": "2026-05-08"
+    "value": null,
+    "updated": null
   }
 }
