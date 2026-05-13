@@ -36,8 +36,8 @@
     "updated": "2026-05-06"
   },
   "RRPONTSYD": {
-    "value": 1.133,
-    "updated": "2026-05-11"
+    "value": 3.719,
+    "updated": "2026-05-13"
   },
   "EFFR": {
     "value": 3.63,
@@ -48,8 +48,8 @@
     "updated": "2026-05-12"
   },
   "ECBASSETSW": {
-    "value": 6196001.0,
-    "updated": "2026-05-01"
+    "value": 6185235.0,
+    "updated": "2026-05-08"
   },
   "JPNASSETSW": {
     "value": null,
@@ -60,24 +60,24 @@
     "updated": null
   },
   "CPIAUCSL": {
-    "value": 330.293,
-    "updated": "2026-03-01"
+    "value": 332.407,
+    "updated": "2026-04-01"
   },
   "CPILFESL": {
-    "value": 334.165,
-    "updated": "2026-03-01"
+    "value": 335.423,
+    "updated": "2026-04-01"
   },
   "CUSR0000SAS": {
-    "value": 427.279,
-    "updated": "2026-03-01"
+    "value": 429.659,
+    "updated": "2026-04-01"
   },
   "CUSR0000SEHA": {
-    "value": 442.705,
-    "updated": "2026-03-01"
+    "value": 445.118,
+    "updated": "2026-04-01"
   },
   "PPIFDG": {
-    "value": 152.664,
-    "updated": "2026-03-01"
+    "value": 156.494,
+    "updated": "2026-04-01"
   },
   "PCEPI": {
     "value": 130.344,
@@ -148,12 +148,12 @@
     "updated": "2026-04-01"
   },
   "HSN1F": {
-    "value": 682.0,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "UMCSENT": {
-    "value": 53.3,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "GOLDAMGBD228NLBM": {
     "value": null,
@@ -264,8 +264,8 @@
     "updated": null
   },
   "ECBDFR": {
-    "value": 2.0,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "IRSTCB01GBM156N": {
     "value": null,
