@@ -160,8 +160,8 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 101.56,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": 106.11,
@@ -232,32 +232,32 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.9052380952,
-    "updated": "2026-03-01"
-  },
-  "IRLTLT01FRM156N": {
     "value": null,
     "updated": null
+  },
+  "IRLTLT01FRM156N": {
+    "value": 3.4,
+    "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
     "value": null,
     "updated": null
   },
   "IRLTLT01GBM156N": {
-    "value": 4.7007,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CHM156N": {
-    "value": 0.4,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.37814285714286,
     "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": 2.345,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -284,12 +284,12 @@
     "updated": "2026-05-08"
   },
   "DEXJPUS": {
-    "value": 156.64,
-    "updated": "2026-05-08"
+    "value": null,
+    "updated": null
   },
   "DEXSZUS": {
-    "value": 0.7773,
-    "updated": "2026-05-08"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
     "value": null,
