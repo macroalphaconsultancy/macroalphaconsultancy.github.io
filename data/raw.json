@@ -1,19 +1,19 @@
 {
   "DGS2": {
-    "value": 3.98,
-    "updated": "2026-05-13"
+    "value": null,
+    "updated": null
   },
   "DGS5": {
-    "value": 4.12,
-    "updated": "2026-05-13"
+    "value": null,
+    "updated": null
   },
   "DGS10": {
     "value": 4.46,
     "updated": "2026-05-13"
   },
   "DGS30": {
-    "value": null,
-    "updated": null
+    "value": 5.03,
+    "updated": "2026-05-13"
   },
   "DFII10": {
     "value": null,
@@ -40,8 +40,8 @@
     "updated": "2026-05-13"
   },
   "EFFR": {
-    "value": 3.63,
-    "updated": "2026-05-13"
+    "value": null,
+    "updated": null
   },
   "SOFR": {
     "value": 3.56,
@@ -164,28 +164,28 @@
     "updated": "2026-05-11"
   },
   "DCOILBRENTEU": {
-    "value": 106.11,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "PCOPPUSDM": {
     "value": 12528.70954545455,
     "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": 2.82,
-    "updated": "2026-05-11"
+    "value": null,
+    "updated": null
   },
   "SP500": {
-    "value": 7444.25,
-    "updated": "2026-05-13"
+    "value": null,
+    "updated": null
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26402.34,
-    "updated": "2026-05-13"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 17.87,
-    "updated": "2026-05-13"
+    "value": 17.26,
+    "updated": "2026-05-14"
   },
   "DTWEXBGS": {
     "value": 118.0392,
@@ -240,24 +240,24 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": 3.388,
-    "updated": "2026-02-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01GBM156N": {
-    "value": 4.7007,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CHM156N": {
     "value": 0.4,
     "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.37814285714286,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
-    "value": 2.345,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CNM156N": {
     "value": null,
