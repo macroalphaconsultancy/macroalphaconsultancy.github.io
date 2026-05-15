@@ -1,11 +1,11 @@
 {
   "DGS2": {
-    "value": null,
-    "updated": null
+    "value": 3.98,
+    "updated": "2026-05-13"
   },
   "DGS5": {
-    "value": null,
-    "updated": null
+    "value": 4.12,
+    "updated": "2026-05-13"
   },
   "DGS10": {
     "value": 4.46,
@@ -16,8 +16,8 @@
     "updated": "2026-05-13"
   },
   "DFII10": {
-    "value": null,
-    "updated": null
+    "value": 1.99,
+    "updated": "2026-05-13"
   },
   "THREEFYTP10": {
     "value": 0.6999,
@@ -40,8 +40,8 @@
     "updated": "2026-05-13"
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.63,
+    "updated": "2026-05-14"
   },
   "SOFR": {
     "value": 3.56,
@@ -164,28 +164,28 @@
     "updated": "2026-05-11"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 106.11,
+    "updated": "2026-05-11"
   },
   "PCOPPUSDM": {
     "value": 12528.70954545455,
     "updated": "2026-03-01"
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 2.82,
+    "updated": "2026-05-11"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7501.24,
+    "updated": "2026-05-14"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 26635.22,
+    "updated": "2026-05-14"
   },
   "RUT": {
     "value": null,
@@ -240,24 +240,24 @@
     "updated": "2026-02-01"
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.388,
+    "updated": "2026-02-01"
   },
   "IRLTLT01GBM156N": {
-    "value": null,
-    "updated": null
+    "value": 4.7007,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CHM156N": {
     "value": 0.4,
     "updated": "2026-03-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.37814285714286,
+    "updated": "2026-03-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.345,
+    "updated": "2026-03-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
