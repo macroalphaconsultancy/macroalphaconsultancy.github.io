@@ -24,20 +24,20 @@
     "updated": "2026-05-08"
   },
   "WALCL": {
-    "value": 6709505.0,
-    "updated": "2026-05-06"
+    "value": 6728502.0,
+    "updated": "2026-05-13"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 877761.0,
-    "updated": "2026-05-06"
+    "value": 838584.0,
+    "updated": "2026-05-13"
   },
   "RRPONTSYD": {
-    "value": 3.719,
-    "updated": "2026-05-13"
+    "value": 0.647,
+    "updated": "2026-05-15"
   },
   "EFFR": {
     "value": 3.63,
@@ -104,12 +104,12 @@
     "updated": "2026-04-01"
   },
   "ICSA": {
-    "value": 200000.0,
-    "updated": "2026-05-02"
+    "value": 211000.0,
+    "updated": "2026-05-09"
   },
   "CCSA": {
-    "value": 1766000.0,
-    "updated": "2026-04-25"
+    "value": 1782000.0,
+    "updated": "2026-05-02"
   },
   "JTSJOL": {
     "value": 6866.0,
@@ -120,24 +120,24 @@
     "updated": "2026-03-01"
   },
   "INDPRO": {
-    "value": 101.7898,
-    "updated": "2026-03-01"
+    "value": 102.4963,
+    "updated": "2026-04-01"
   },
   "RSXFS": {
-    "value": 651843.0,
-    "updated": "2026-03-01"
+    "value": 656115.0,
+    "updated": "2026-04-01"
   },
   "NAPMPI": {
     "value": null,
     "updated": null
   },
   "TCU": {
-    "value": 75.6596,
-    "updated": "2026-03-01"
+    "value": 76.1194,
+    "updated": "2026-04-01"
   },
   "MORTGAGE30US": {
-    "value": 6.37,
-    "updated": "2026-05-07"
+    "value": 6.36,
+    "updated": "2026-05-14"
   },
   "HOUST": {
     "value": 1502.0,
@@ -148,12 +148,12 @@
     "updated": "2026-04-01"
   },
   "HSN1F": {
-    "value": null,
-    "updated": null
+    "value": 682.0,
+    "updated": "2026-03-01"
   },
   "UMCSENT": {
-    "value": null,
-    "updated": null
+    "value": 53.3,
+    "updated": "2026-03-01"
   },
   "GOLDAMGBD228NLBM": {
     "value": null,
@@ -264,8 +264,8 @@
     "updated": null
   },
   "ECBDFR": {
-    "value": null,
-    "updated": null
+    "value": 2.0,
+    "updated": "2026-05-15"
   },
   "IRSTCB01GBM156N": {
     "value": null,
