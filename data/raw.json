@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.63,
-    "updated": "2026-05-14"
+    "updated": "2026-05-15"
   },
   "SOFR": {
-    "value": 3.56,
-    "updated": "2026-05-14"
+    "value": 3.55,
+    "updated": "2026-05-15"
   },
   "ECBASSETSW": {
     "value": 6185235.0,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 17.26,
-    "updated": "2026-05-14"
+    "value": 18.43,
+    "updated": "2026-05-15"
   },
   "DTWEXBGS": {
     "value": 118.0392,
     "updated": "2026-05-08"
   },
   "NIKKEI225": {
-    "value": 61409.29,
-    "updated": "2026-05-15"
+    "value": 60815.95,
+    "updated": "2026-05-18"
   },
   "SHCOMP": {
     "value": null,
