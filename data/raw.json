@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.63,
-    "updated": "2026-05-15"
+    "updated": "2026-05-18"
   },
   "SOFR": {
-    "value": 3.55,
-    "updated": "2026-05-15"
+    "value": 3.53,
+    "updated": "2026-05-18"
   },
   "ECBASSETSW": {
     "value": 6185235.0,
@@ -176,16 +176,16 @@
     "updated": "2026-05-11"
   },
   "SP500": {
-    "value": 7408.5,
-    "updated": "2026-05-15"
+    "value": 7403.05,
+    "updated": "2026-05-18"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26225.14,
-    "updated": "2026-05-15"
+    "value": 26090.73,
+    "updated": "2026-05-18"
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 18.43,
-    "updated": "2026-05-15"
+    "value": 17.82,
+    "updated": "2026-05-18"
   },
   "DTWEXBGS": {
     "value": 119.2825,
     "updated": "2026-05-15"
   },
   "NIKKEI225": {
-    "value": 60815.95,
-    "updated": "2026-05-18"
+    "value": 60550.59,
+    "updated": "2026-05-19"
   },
   "SHCOMP": {
     "value": null,
