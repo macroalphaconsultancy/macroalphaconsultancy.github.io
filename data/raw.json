@@ -20,8 +20,8 @@
     "updated": null
   },
   "THREEFYTP10": {
-    "value": 0.8285,
-    "updated": "2026-05-22"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6704383.0,
@@ -44,8 +44,8 @@
     "updated": "2026-05-28"
   },
   "SOFR": {
-    "value": null,
-    "updated": null
+    "value": 3.62,
+    "updated": "2026-05-28"
   },
   "ECBASSETSW": {
     "value": 6186508.0,
@@ -168,24 +168,24 @@
     "updated": null
   },
   "PCOPPUSDM": {
-    "value": 12528.70954545455,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "DHHNGSP": {
     "value": 3.1,
     "updated": "2026-05-26"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7580.06,
+    "updated": "2026-05-29"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 26972.62,
+    "updated": "2026-05-29"
   },
   "RUT": {
     "value": null,
@@ -204,8 +204,8 @@
     "updated": null
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 66329.5,
+    "updated": "2026-05-29"
   },
   "SHCOMP": {
     "value": null,
@@ -232,28 +232,28 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
+    "value": 2.9963157895,
+    "updated": "2026-04-01"
+  },
+  "IRLTLT01FRM156N": {
     "value": null,
     "updated": null
   },
-  "IRLTLT01FRM156N": {
-    "value": 3.6749,
-    "updated": "2026-04-01"
-  },
   "IRLTLT01ITM156N": {
-    "value": 3.733,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01GBM156N": {
     "value": null,
     "updated": null
   },
   "IRLTLT01CHM156N": {
-    "value": null,
-    "updated": null
+    "value": 0.45,
+    "updated": "2026-04-01"
   },
   "IRLTLT01ESM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.44378947368421,
+    "updated": "2026-04-01"
   },
   "IRLTLT01JPM156N": {
     "value": null,
@@ -280,8 +280,8 @@
     "updated": "2026-05-22"
   },
   "DEXUSUK": {
-    "value": null,
-    "updated": null
+    "value": 1.3439,
+    "updated": "2026-05-22"
   },
   "DEXJPUS": {
     "value": null,
