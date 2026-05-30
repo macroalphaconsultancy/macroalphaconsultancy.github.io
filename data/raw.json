@@ -8,8 +8,8 @@
     "updated": "2026-05-28"
   },
   "DGS10": {
-    "value": 4.45,
-    "updated": "2026-05-28"
+    "value": null,
+    "updated": null
   },
   "DGS30": {
     "value": 4.98,
@@ -20,8 +20,8 @@
     "updated": "2026-05-28"
   },
   "THREEFYTP10": {
-    "value": 0.8285,
-    "updated": "2026-05-22"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6704383.0,
@@ -40,8 +40,8 @@
     "updated": "2026-05-28"
   },
   "EFFR": {
-    "value": 3.62,
-    "updated": "2026-05-28"
+    "value": null,
+    "updated": null
   },
   "SOFR": {
     "value": 3.62,
@@ -160,16 +160,16 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 97.63,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
-    "value": 102.75,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "PCOPPUSDM": {
-    "value": 12528.70954545455,
-    "updated": "2026-03-01"
+    "value": null,
+    "updated": null
   },
   "DHHNGSP": {
     "value": 3.1,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 15.74,
-    "updated": "2026-05-28"
+    "value": null,
+    "updated": null
   },
   "DTWEXBGS": {
     "value": 119.2868,
@@ -232,8 +232,8 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.9963157895,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01FRM156N": {
     "value": 3.6749,
@@ -244,12 +244,12 @@
     "updated": "2026-03-01"
   },
   "IRLTLT01GBM156N": {
-    "value": 4.8207,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CHM156N": {
-    "value": 0.45,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.44378947368421,
@@ -276,8 +276,8 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1603,
-    "updated": "2026-05-22"
+    "value": null,
+    "updated": null
   },
   "DEXUSUK": {
     "value": 1.3439,
@@ -288,11 +288,11 @@
     "updated": "2026-05-22"
   },
   "DEXSZUS": {
-    "value": 0.7857,
-    "updated": "2026-05-22"
+    "value": null,
+    "updated": null
   },
   "DEXCHUS": {
-    "value": 6.7945,
-    "updated": "2026-05-22"
+    "value": null,
+    "updated": null
   }
 }
