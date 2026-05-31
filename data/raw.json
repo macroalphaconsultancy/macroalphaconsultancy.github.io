@@ -20,8 +20,8 @@
     "updated": null
   },
   "THREEFYTP10": {
-    "value": 0.8285,
-    "updated": "2026-05-22"
+    "value": null,
+    "updated": null
   },
   "WALCL": {
     "value": 6704383.0,
@@ -40,12 +40,12 @@
     "updated": "2026-05-28"
   },
   "EFFR": {
-    "value": 3.62,
-    "updated": "2026-05-28"
-  },
-  "SOFR": {
     "value": null,
     "updated": null
+  },
+  "SOFR": {
+    "value": 3.62,
+    "updated": "2026-05-28"
   },
   "ECBASSETSW": {
     "value": 6186508.0,
@@ -160,8 +160,8 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 97.63,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": null,
@@ -172,12 +172,12 @@
     "updated": null
   },
   "DHHNGSP": {
-    "value": 3.1,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "SP500": {
-    "value": 7580.06,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "SP500REAL": {
     "value": null,
@@ -204,8 +204,8 @@
     "updated": null
   },
   "NIKKEI225": {
-    "value": 66329.5,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "SHCOMP": {
     "value": null,
