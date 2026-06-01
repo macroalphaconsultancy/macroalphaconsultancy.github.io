@@ -160,16 +160,16 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 97.63,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "DCOILBRENTEU": {
     "value": 102.75,
     "updated": "2026-05-26"
   },
   "PCOPPUSDM": {
-    "value": null,
-    "updated": null
+    "value": 12528.70954545455,
+    "updated": "2026-03-01"
   },
   "DHHNGSP": {
     "value": null,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26972.62,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 15.32,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "DTWEXBGS": {
     "value": null,
@@ -236,28 +236,28 @@
     "updated": "2026-04-01"
   },
   "IRLTLT01FRM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.6749,
+    "updated": "2026-04-01"
   },
   "IRLTLT01ITM156N": {
     "value": null,
     "updated": null
   },
   "IRLTLT01GBM156N": {
-    "value": 4.8207,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01CHM156N": {
-    "value": 0.45,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": null,
     "updated": null
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.515,
+    "updated": "2026-04-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -276,8 +276,8 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1679,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "DEXUSUK": {
     "value": null,
