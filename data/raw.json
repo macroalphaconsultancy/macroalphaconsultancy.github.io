@@ -48,8 +48,8 @@
     "updated": "2026-06-01"
   },
   "ECBASSETSW": {
-    "value": null,
-    "updated": null
+    "value": 6162017.0,
+    "updated": "2026-05-29"
   },
   "JPNASSETSW": {
     "value": null,
@@ -72,88 +72,88 @@
     "updated": "2026-04-01"
   },
   "CUSR0000SEHA": {
-    "value": null,
-    "updated": null
+    "value": 445.118,
+    "updated": "2026-04-01"
   },
   "PPIFDG": {
-    "value": null,
-    "updated": null
+    "value": 156.494,
+    "updated": "2026-04-01"
   },
   "PCEPI": {
-    "value": 130.902,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "PCEPILFE": {
-    "value": 129.63,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "UNRATE": {
-    "value": null,
-    "updated": null
+    "value": 4.3,
+    "updated": "2026-04-01"
   },
   "PAYEMS": {
-    "value": null,
-    "updated": null
+    "value": 158736.0,
+    "updated": "2026-04-01"
   },
   "AHETPI": {
-    "value": 32.23,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "CIVPART": {
-    "value": 61.8,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "ICSA": {
-    "value": null,
-    "updated": null
+    "value": 215000.0,
+    "updated": "2026-05-23"
   },
   "CCSA": {
-    "value": null,
-    "updated": null
+    "value": 1786000.0,
+    "updated": "2026-05-16"
   },
   "JTSJOL": {
     "value": null,
     "updated": null
   },
   "JTSQUR": {
-    "value": 2.0,
-    "updated": "2026-03-01"
-  },
-  "INDPRO": {
-    "value": 102.4963,
-    "updated": "2026-04-01"
-  },
-  "RSXFS": {
     "value": null,
     "updated": null
+  },
+  "INDPRO": {
+    "value": null,
+    "updated": null
+  },
+  "RSXFS": {
+    "value": 656115.0,
+    "updated": "2026-04-01"
   },
   "NAPMPI": {
     "value": null,
     "updated": null
   },
   "TCU": {
-    "value": 76.1194,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "MORTGAGE30US": {
-    "value": 6.53,
-    "updated": "2026-05-28"
+    "value": null,
+    "updated": null
   },
   "HOUST": {
-    "value": null,
-    "updated": null
+    "value": 1465.0,
+    "updated": "2026-04-01"
   },
   "EXHOSLUSM495S": {
+    "value": 4020000.0,
+    "updated": "2026-04-01"
+  },
+  "HSN1F": {
     "value": null,
     "updated": null
   },
-  "HSN1F": {
-    "value": 622.0,
-    "updated": "2026-04-01"
-  },
   "UMCSENT": {
-    "value": 49.8,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "GOLDAMGBD228NLBM": {
     "value": null,
