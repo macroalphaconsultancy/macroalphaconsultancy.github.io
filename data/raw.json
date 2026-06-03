@@ -16,8 +16,8 @@
     "updated": null
   },
   "DFII10": {
-    "value": null,
-    "updated": null
+    "value": 2.07,
+    "updated": "2026-06-01"
   },
   "THREEFYTP10": {
     "value": 0.8285,
@@ -40,8 +40,8 @@
     "updated": null
   },
   "EFFR": {
-    "value": 3.62,
-    "updated": "2026-06-01"
+    "value": null,
+    "updated": null
   },
   "SOFR": {
     "value": null,
@@ -164,28 +164,28 @@
     "updated": "2026-05-26"
   },
   "DCOILBRENTEU": {
-    "value": 102.75,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "PCOPPUSDM": {
     "value": null,
     "updated": null
   },
   "DHHNGSP": {
-    "value": null,
-    "updated": null
+    "value": 3.1,
+    "updated": "2026-05-26"
   },
   "SP500": {
-    "value": null,
-    "updated": null
+    "value": 7609.78,
+    "updated": "2026-06-02"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 27086.81,
-    "updated": "2026-06-01"
+    "value": null,
+    "updated": null
   },
   "RUT": {
     "value": null,
@@ -200,8 +200,8 @@
     "updated": "2026-06-01"
   },
   "DTWEXBGS": {
-    "value": 118.8783,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "NIKKEI225": {
     "value": null,
@@ -248,16 +248,16 @@
     "updated": null
   },
   "IRLTLT01CHM156N": {
-    "value": 0.45,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ESM156N": {
     "value": 3.44378947368421,
     "updated": "2026-04-01"
   },
   "IRLTLT01JPM156N": {
-    "value": null,
-    "updated": null
+    "value": 2.515,
+    "updated": "2026-04-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -276,16 +276,16 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1679,
-    "updated": "2026-05-29"
+    "value": null,
+    "updated": null
   },
   "DEXUSUK": {
     "value": 1.3476,
     "updated": "2026-05-29"
   },
   "DEXJPUS": {
-    "value": null,
-    "updated": null
+    "value": 159.23,
+    "updated": "2026-05-29"
   },
   "DEXSZUS": {
     "value": null,
