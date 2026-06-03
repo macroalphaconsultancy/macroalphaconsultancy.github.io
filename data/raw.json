@@ -16,8 +16,8 @@
     "updated": null
   },
   "DFII10": {
-    "value": 2.07,
-    "updated": "2026-06-01"
+    "value": null,
+    "updated": null
   },
   "THREEFYTP10": {
     "value": 0.8285,
@@ -40,8 +40,8 @@
     "updated": null
   },
   "EFFR": {
-    "value": null,
-    "updated": null
+    "value": 3.62,
+    "updated": "2026-06-01"
   },
   "SOFR": {
     "value": null,
@@ -164,28 +164,28 @@
     "updated": "2026-05-26"
   },
   "DCOILBRENTEU": {
-    "value": null,
-    "updated": null
+    "value": 102.75,
+    "updated": "2026-05-26"
   },
   "PCOPPUSDM": {
     "value": null,
     "updated": null
   },
   "DHHNGSP": {
-    "value": 3.1,
-    "updated": "2026-05-26"
+    "value": null,
+    "updated": null
   },
   "SP500": {
-    "value": 7609.78,
-    "updated": "2026-06-02"
+    "value": null,
+    "updated": null
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": null,
-    "updated": null
+    "value": 27093.9,
+    "updated": "2026-06-02"
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 16.05,
-    "updated": "2026-06-01"
+    "value": null,
+    "updated": null
   },
   "DTWEXBGS": {
-    "value": null,
-    "updated": null
+    "value": 118.8783,
+    "updated": "2026-05-29"
   },
   "NIKKEI225": {
-    "value": null,
-    "updated": null
+    "value": 66734.24,
+    "updated": "2026-06-02"
   },
   "SHCOMP": {
     "value": null,
@@ -232,28 +232,28 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.9963157895,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01FRM156N": {
-    "value": 3.6749,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01ITM156N": {
-    "value": null,
-    "updated": null
+    "value": 3.733,
+    "updated": "2026-03-01"
   },
   "IRLTLT01GBM156N": {
-    "value": null,
-    "updated": null
+    "value": 4.8207,
+    "updated": "2026-04-01"
   },
   "IRLTLT01CHM156N": {
     "value": null,
     "updated": null
   },
   "IRLTLT01ESM156N": {
-    "value": 3.44378947368421,
-    "updated": "2026-04-01"
+    "value": null,
+    "updated": null
   },
   "IRLTLT01JPM156N": {
     "value": 2.515,
