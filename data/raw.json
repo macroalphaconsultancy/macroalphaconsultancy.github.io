@@ -104,12 +104,12 @@
     "updated": "2026-04-01"
   },
   "ICSA": {
-    "value": 215000.0,
-    "updated": "2026-05-23"
+    "value": 225000.0,
+    "updated": "2026-05-30"
   },
   "CCSA": {
-    "value": 1786000.0,
-    "updated": "2026-05-16"
+    "value": 1777000.0,
+    "updated": "2026-05-23"
   },
   "JTSJOL": {
     "value": 7618.0,
@@ -136,8 +136,8 @@
     "updated": "2026-04-01"
   },
   "MORTGAGE30US": {
-    "value": 6.53,
-    "updated": "2026-05-28"
+    "value": 6.48,
+    "updated": "2026-06-04"
   },
   "HOUST": {
     "value": 1465.0,
