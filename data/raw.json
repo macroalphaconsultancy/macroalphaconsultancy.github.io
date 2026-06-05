@@ -24,20 +24,20 @@
     "updated": "2026-05-29"
   },
   "WALCL": {
-    "value": 6704383.0,
-    "updated": "2026-05-27"
+    "value": 6711495.0,
+    "updated": "2026-06-03"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 830296.0,
-    "updated": "2026-05-27"
+    "value": 875713.0,
+    "updated": "2026-06-03"
   },
   "RRPONTSYD": {
-    "value": 2.062,
-    "updated": "2026-06-03"
+    "value": 0.761,
+    "updated": "2026-06-05"
   },
   "EFFR": {
     "value": 3.62,
@@ -89,19 +89,19 @@
   },
   "UNRATE": {
     "value": 4.3,
-    "updated": "2026-04-01"
+    "updated": "2026-05-01"
   },
   "PAYEMS": {
-    "value": 158736.0,
-    "updated": "2026-04-01"
+    "value": 159001.0,
+    "updated": "2026-05-01"
   },
   "AHETPI": {
-    "value": 32.23,
-    "updated": "2026-04-01"
+    "value": 32.31,
+    "updated": "2026-05-01"
   },
   "CIVPART": {
     "value": 61.8,
-    "updated": "2026-04-01"
+    "updated": "2026-05-01"
   },
   "ICSA": {
     "value": 225000.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.0,
-    "updated": "2026-06-03"
+    "updated": "2026-06-05"
   },
   "IRSTCB01GBM156N": {
     "value": null,
