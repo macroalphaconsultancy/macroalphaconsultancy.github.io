@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.05,
-    "updated": "2026-06-02"
+    "value": 4.08,
+    "updated": "2026-06-03"
   },
   "DGS5": {
-    "value": 4.17,
-    "updated": "2026-06-02"
+    "value": 4.21,
+    "updated": "2026-06-03"
   },
   "DGS10": {
-    "value": 4.46,
-    "updated": "2026-06-02"
+    "value": 4.49,
+    "updated": "2026-06-03"
   },
   "DGS30": {
-    "value": 4.97,
-    "updated": "2026-06-02"
+    "value": 4.99,
+    "updated": "2026-06-03"
   },
   "DFII10": {
-    "value": 2.07,
-    "updated": "2026-06-02"
+    "value": 2.11,
+    "updated": "2026-06-03"
   },
   "THREEFYTP10": {
     "value": 0.7541,
@@ -176,16 +176,16 @@
     "updated": "2026-06-01"
   },
   "SP500": {
-    "value": 7553.68,
-    "updated": "2026-06-03"
+    "value": 7584.31,
+    "updated": "2026-06-04"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26853.98,
-    "updated": "2026-06-03"
+    "value": 26830.96,
+    "updated": "2026-06-04"
   },
   "RUT": {
     "value": null,
