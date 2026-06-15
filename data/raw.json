@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.05,
-    "updated": "2026-06-11"
+    "value": 4.09,
+    "updated": "2026-06-12"
   },
   "DGS5": {
-    "value": 4.18,
-    "updated": "2026-06-11"
+    "value": 4.21,
+    "updated": "2026-06-12"
   },
   "DGS10": {
-    "value": 4.45,
-    "updated": "2026-06-11"
+    "value": 4.48,
+    "updated": "2026-06-12"
   },
   "DGS30": {
-    "value": 4.95,
-    "updated": "2026-06-11"
+    "value": 4.97,
+    "updated": "2026-06-12"
   },
   "DFII10": {
-    "value": 2.16,
-    "updated": "2026-06-11"
+    "value": 2.17,
+    "updated": "2026-06-12"
   },
   "THREEFYTP10": {
     "value": 0.8019,
@@ -200,8 +200,8 @@
     "updated": "2026-06-12"
   },
   "DTWEXBGS": {
-    "value": 120.0831,
-    "updated": "2026-06-05"
+    "value": 119.5073,
+    "updated": "2026-06-12"
   },
   "NIKKEI225": {
     "value": 69317.5,
@@ -232,32 +232,32 @@
     "updated": null
   },
   "IRLTLT01DEM156N": {
-    "value": 2.9963157895,
-    "updated": "2026-04-01"
+    "value": 3.0465,
+    "updated": "2026-05-01"
   },
   "IRLTLT01FRM156N": {
-    "value": 3.6749,
-    "updated": "2026-04-01"
+    "value": 3.7416,
+    "updated": "2026-05-01"
   },
   "IRLTLT01ITM156N": {
-    "value": 3.733,
-    "updated": "2026-03-01"
+    "value": 3.818,
+    "updated": "2026-04-01"
   },
   "IRLTLT01GBM156N": {
-    "value": 4.8207,
-    "updated": "2026-04-01"
+    "value": 4.9416,
+    "updated": "2026-05-01"
   },
   "IRLTLT01CHM156N": {
-    "value": 0.45,
-    "updated": "2026-04-01"
+    "value": 0.44,
+    "updated": "2026-05-01"
   },
   "IRLTLT01ESM156N": {
-    "value": 3.44378947368421,
-    "updated": "2026-04-01"
+    "value": 3.4823,
+    "updated": "2026-05-01"
   },
   "IRLTLT01JPM156N": {
-    "value": 2.515,
-    "updated": "2026-04-01"
+    "value": 2.65,
+    "updated": "2026-05-01"
   },
   "IRLTLT01CNM156N": {
     "value": null,
@@ -276,23 +276,23 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1533,
-    "updated": "2026-06-05"
+    "value": 1.1573,
+    "updated": "2026-06-12"
   },
   "DEXUSUK": {
-    "value": 1.336,
-    "updated": "2026-06-05"
+    "value": 1.3414,
+    "updated": "2026-06-12"
   },
   "DEXJPUS": {
-    "value": 160.26,
-    "updated": "2026-06-05"
+    "value": 160.24,
+    "updated": "2026-06-12"
   },
   "DEXSZUS": {
-    "value": 0.7955,
-    "updated": "2026-06-05"
+    "value": 0.7964,
+    "updated": "2026-06-12"
   },
   "DEXCHUS": {
-    "value": 6.7655,
-    "updated": "2026-06-05"
+    "value": 6.7626,
+    "updated": "2026-06-12"
   }
 }
