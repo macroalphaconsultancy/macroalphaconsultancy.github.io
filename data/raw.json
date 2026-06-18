@@ -160,12 +160,12 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 95.0,
-    "updated": "2026-06-08"
+    "value": 84.65,
+    "updated": "2026-06-15"
   },
   "DCOILBRENTEU": {
-    "value": 97.46,
-    "updated": "2026-06-08"
+    "value": 84.36,
+    "updated": "2026-06-15"
   },
   "PCOPPUSDM": {
     "value": 13483.75153846154,
@@ -176,16 +176,16 @@
     "updated": "2026-06-15"
   },
   "SP500": {
-    "value": 7511.35,
-    "updated": "2026-06-16"
+    "value": 7420.1,
+    "updated": "2026-06-17"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26376.34,
-    "updated": "2026-06-16"
+    "value": 26021.66,
+    "updated": "2026-06-17"
   },
   "RUT": {
     "value": null,
