@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.1,
-    "updated": "2026-06-29"
+    "value": 4.14,
+    "updated": "2026-06-30"
   },
   "DGS5": {
-    "value": 4.14,
-    "updated": "2026-06-29"
+    "value": 4.19,
+    "updated": "2026-06-30"
   },
   "DGS10": {
-    "value": 4.38,
-    "updated": "2026-06-29"
+    "value": 4.44,
+    "updated": "2026-06-30"
   },
   "DGS30": {
-    "value": 4.86,
-    "updated": "2026-06-29"
+    "value": 4.91,
+    "updated": "2026-06-30"
   },
   "DFII10": {
-    "value": 2.16,
-    "updated": "2026-06-29"
+    "value": 2.2,
+    "updated": "2026-06-30"
   },
   "THREEFYTP10": {
     "value": 0.6842,
@@ -160,20 +160,20 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 78.94,
-    "updated": "2026-06-22"
+    "value": 71.87,
+    "updated": "2026-06-29"
   },
   "DCOILBRENTEU": {
-    "value": 76.49,
-    "updated": "2026-06-22"
+    "value": 71.59,
+    "updated": "2026-06-29"
   },
   "PCOPPUSDM": {
     "value": 13483.75153846154,
     "updated": "2026-05-01"
   },
   "DHHNGSP": {
-    "value": 3.16,
-    "updated": "2026-06-22"
+    "value": 3.33,
+    "updated": "2026-06-29"
   },
   "SP500": {
     "value": 7499.36,
