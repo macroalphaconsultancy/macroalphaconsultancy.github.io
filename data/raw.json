@@ -24,20 +24,20 @@
     "updated": "2026-07-10"
   },
   "WALCL": {
-    "value": 6735609.0,
-    "updated": "2026-07-08"
+    "value": 6743028.0,
+    "updated": "2026-07-15"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 774062.0,
-    "updated": "2026-07-08"
+    "value": 756218.0,
+    "updated": "2026-07-15"
   },
   "RRPONTSYD": {
-    "value": 0.795,
-    "updated": "2026-07-13"
+    "value": 0.1,
+    "updated": "2026-07-17"
   },
   "EFFR": {
     "value": 3.63,
@@ -48,8 +48,8 @@
     "updated": "2026-07-16"
   },
   "ECBASSETSW": {
-    "value": 5983015.0,
-    "updated": "2026-07-03"
+    "value": 5970516.0,
+    "updated": "2026-07-10"
   },
   "JPNASSETSW": {
     "value": null,
@@ -60,24 +60,24 @@
     "updated": null
   },
   "CPIAUCSL": {
-    "value": 333.979,
-    "updated": "2026-05-01"
+    "value": 332.568,
+    "updated": "2026-06-01"
   },
   "CPILFESL": {
-    "value": 336.121,
-    "updated": "2026-05-01"
+    "value": 336.065,
+    "updated": "2026-06-01"
   },
   "CUSR0000SAS": {
-    "value": 430.939,
-    "updated": "2026-05-01"
+    "value": 430.915,
+    "updated": "2026-06-01"
   },
   "CUSR0000SEHA": {
-    "value": 446.729,
-    "updated": "2026-05-01"
+    "value": 447.397,
+    "updated": "2026-06-01"
   },
   "PPIFDG": {
-    "value": 161.073,
-    "updated": "2026-05-01"
+    "value": 158.276,
+    "updated": "2026-06-01"
   },
   "PCEPI": {
     "value": 131.527,
@@ -104,12 +104,12 @@
     "updated": "2026-06-01"
   },
   "ICSA": {
-    "value": 215000.0,
-    "updated": "2026-07-04"
+    "value": 208000.0,
+    "updated": "2026-07-11"
   },
   "CCSA": {
-    "value": 1814000.0,
-    "updated": "2026-06-27"
+    "value": 1805000.0,
+    "updated": "2026-07-04"
   },
   "JTSJOL": {
     "value": 7594.0,
@@ -120,28 +120,28 @@
     "updated": "2026-05-01"
   },
   "INDPRO": {
-    "value": 102.6475,
-    "updated": "2026-05-01"
+    "value": 102.6395,
+    "updated": "2026-06-01"
   },
   "RSXFS": {
-    "value": 662752.0,
-    "updated": "2026-05-01"
+    "value": 666056.0,
+    "updated": "2026-06-01"
   },
   "NAPMPI": {
     "value": null,
     "updated": null
   },
   "TCU": {
-    "value": 76.1663,
-    "updated": "2026-05-01"
+    "value": 76.0937,
+    "updated": "2026-06-01"
   },
   "MORTGAGE30US": {
-    "value": 6.49,
-    "updated": "2026-07-09"
+    "value": 6.55,
+    "updated": "2026-07-16"
   },
   "HOUST": {
-    "value": 1177.0,
-    "updated": "2026-05-01"
+    "value": 1427.0,
+    "updated": "2026-06-01"
   },
   "EXHOSLUSM495S": {
     "value": 4090000.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.25,
-    "updated": "2026-07-13"
+    "updated": "2026-07-17"
   },
   "IRSTCB01GBM156N": {
     "value": null,
