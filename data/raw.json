@@ -200,8 +200,8 @@
     "updated": "2026-08-14"
   },
   "DTWEXBGS": {
-    "value": 119.0649,
-    "updated": "2026-08-07"
+    "value": 118.9028,
+    "updated": "2026-08-14"
   },
   "NIKKEI225": {
     "value": 69220.25,
@@ -276,23 +276,23 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1559,
-    "updated": "2026-08-07"
+    "value": 1.1581,
+    "updated": "2026-08-14"
   },
   "DEXUSUK": {
-    "value": 1.3498,
-    "updated": "2026-08-07"
+    "value": 1.3556,
+    "updated": "2026-08-14"
   },
   "DEXJPUS": {
-    "value": 157.54,
-    "updated": "2026-08-07"
+    "value": 159.21,
+    "updated": "2026-08-14"
   },
   "DEXSZUS": {
-    "value": 0.8078,
-    "updated": "2026-08-07"
+    "value": 0.8116,
+    "updated": "2026-08-14"
   },
   "DEXCHUS": {
-    "value": 6.7474,
-    "updated": "2026-08-07"
+    "value": 6.7412,
+    "updated": "2026-08-14"
   }
 }
