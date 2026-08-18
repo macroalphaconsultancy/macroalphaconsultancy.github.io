@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.63,
-    "updated": "2026-08-14"
+    "updated": "2026-08-17"
   },
   "SOFR": {
-    "value": 3.62,
-    "updated": "2026-08-14"
+    "value": 3.66,
+    "updated": "2026-08-17"
   },
   "ECBASSETSW": {
     "value": 5923023.0,
@@ -204,8 +204,8 @@
     "updated": "2026-08-14"
   },
   "NIKKEI225": {
-    "value": 69220.25,
-    "updated": "2026-08-17"
+    "value": 67460.73,
+    "updated": "2026-08-18"
   },
   "SHCOMP": {
     "value": null,
