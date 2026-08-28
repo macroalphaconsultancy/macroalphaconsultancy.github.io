@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.63,
-    "updated": "2026-08-26"
+    "updated": "2026-08-27"
   },
   "SOFR": {
     "value": 3.64,
-    "updated": "2026-08-26"
+    "updated": "2026-08-27"
   },
   "ECBASSETSW": {
     "value": 5913041.0,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26130.2,
-    "updated": "2026-08-26"
+    "value": 26541.35,
+    "updated": "2026-08-27"
   },
   "RUT": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 15.21,
-    "updated": "2026-08-26"
+    "value": 14.51,
+    "updated": "2026-08-27"
   },
   "DTWEXBGS": {
     "value": 118.0628,
     "updated": "2026-08-21"
   },
   "NIKKEI225": {
-    "value": 66131.98,
-    "updated": "2026-08-27"
+    "value": 66405.56,
+    "updated": "2026-08-28"
   },
   "SHCOMP": {
     "value": null,
