@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.2,
-    "updated": "2026-08-27"
+    "value": 4.34,
+    "updated": "2026-08-28"
   },
   "DGS5": {
-    "value": 4.38,
-    "updated": "2026-08-27"
+    "value": 4.48,
+    "updated": "2026-08-28"
   },
   "DGS10": {
-    "value": 4.67,
-    "updated": "2026-08-27"
+    "value": 4.73,
+    "updated": "2026-08-28"
   },
   "DGS30": {
-    "value": 5.19,
-    "updated": "2026-08-27"
+    "value": 5.22,
+    "updated": "2026-08-28"
   },
   "DFII10": {
-    "value": 2.34,
-    "updated": "2026-08-27"
+    "value": 2.42,
+    "updated": "2026-08-28"
   },
   "THREEFYTP10": {
     "value": 0.8682,
@@ -200,8 +200,8 @@
     "updated": "2026-08-28"
   },
   "DTWEXBGS": {
-    "value": 118.0628,
-    "updated": "2026-08-21"
+    "value": 118.7479,
+    "updated": "2026-08-28"
   },
   "NIKKEI225": {
     "value": 66311.93,
@@ -276,23 +276,23 @@
     "updated": "2023-12-01"
   },
   "DEXUSEU": {
-    "value": 1.1684,
-    "updated": "2026-08-21"
+    "value": 1.1598,
+    "updated": "2026-08-28"
   },
   "DEXUSUK": {
-    "value": 1.3644,
-    "updated": "2026-08-21"
+    "value": 1.3555,
+    "updated": "2026-08-28"
   },
   "DEXJPUS": {
-    "value": 158.91,
-    "updated": "2026-08-21"
+    "value": 159.97,
+    "updated": "2026-08-28"
   },
   "DEXSZUS": {
-    "value": 0.8008,
-    "updated": "2026-08-21"
+    "value": 0.8085,
+    "updated": "2026-08-28"
   },
   "DEXCHUS": {
-    "value": 6.721,
-    "updated": "2026-08-21"
+    "value": 6.726,
+    "updated": "2026-08-28"
   }
 }
