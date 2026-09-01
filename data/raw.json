@@ -36,8 +36,8 @@
     "updated": "2026-08-26"
   },
   "RRPONTSYD": {
-    "value": 6.726,
-    "updated": "2026-08-31"
+    "value": 0.725,
+    "updated": "2026-09-01"
   },
   "EFFR": {
     "value": 3.63,
@@ -48,8 +48,8 @@
     "updated": "2026-08-31"
   },
   "ECBASSETSW": {
-    "value": 5913041.0,
-    "updated": "2026-08-21"
+    "value": 5915343.0,
+    "updated": "2026-08-28"
   },
   "JPNASSETSW": {
     "value": null,
@@ -112,12 +112,12 @@
     "updated": "2026-08-15"
   },
   "JTSJOL": {
-    "value": 7359.0,
-    "updated": "2026-06-01"
+    "value": 7271.0,
+    "updated": "2026-07-01"
   },
   "JTSQUR": {
-    "value": 2.0,
-    "updated": "2026-06-01"
+    "value": 1.9,
+    "updated": "2026-07-01"
   },
   "INDPRO": {
     "value": 102.9939,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.25,
-    "updated": "2026-08-31"
+    "updated": "2026-09-01"
   },
   "IRSTCB01GBM156N": {
     "value": null,
