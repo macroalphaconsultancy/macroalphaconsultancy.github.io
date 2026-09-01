@@ -1,27 +1,27 @@
 {
   "DGS2": {
     "value": 4.34,
-    "updated": "2026-08-28"
+    "updated": "2026-08-31"
   },
   "DGS5": {
-    "value": 4.48,
-    "updated": "2026-08-28"
+    "value": 4.49,
+    "updated": "2026-08-31"
   },
   "DGS10": {
-    "value": 4.73,
-    "updated": "2026-08-28"
+    "value": 4.75,
+    "updated": "2026-08-31"
   },
   "DGS30": {
-    "value": 5.22,
-    "updated": "2026-08-28"
+    "value": 5.25,
+    "updated": "2026-08-31"
   },
   "DFII10": {
-    "value": 2.42,
-    "updated": "2026-08-28"
+    "value": 2.44,
+    "updated": "2026-08-31"
   },
   "THREEFYTP10": {
-    "value": 0.8682,
-    "updated": "2026-08-21"
+    "value": 0.8751,
+    "updated": "2026-08-28"
   },
   "WALCL": {
     "value": 6730912.0,
