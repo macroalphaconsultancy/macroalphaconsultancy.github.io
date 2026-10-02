@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.89,
-    "updated": "2026-09-29"
+    "value": 4.88,
+    "updated": "2026-09-30"
   },
   "DGS5": {
-    "value": 5.06,
-    "updated": "2026-09-29"
+    "value": 5.09,
+    "updated": "2026-09-30"
   },
   "DGS10": {
-    "value": 5.26,
-    "updated": "2026-09-29"
+    "value": 5.29,
+    "updated": "2026-09-30"
   },
   "DGS30": {
-    "value": 5.59,
-    "updated": "2026-09-29"
+    "value": 5.64,
+    "updated": "2026-09-30"
   },
   "DFII10": {
-    "value": 2.91,
-    "updated": "2026-09-29"
+    "value": 2.93,
+    "updated": "2026-09-30"
   },
   "THREEFYTP10": {
     "value": 1.0203,
@@ -176,8 +176,8 @@
     "updated": "2026-09-29"
   },
   "SP500": {
-    "value": 7651.54,
-    "updated": "2026-09-30"
+    "value": 7666.45,
+    "updated": "2026-10-01"
   },
   "SP500REAL": {
     "value": null,
