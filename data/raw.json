@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.88,
-    "updated": "2026-10-05"
+    "updated": "2026-10-06"
   },
   "SOFR": {
-    "value": 3.89,
-    "updated": "2026-10-05"
+    "value": 3.9,
+    "updated": "2026-10-06"
   },
   "ECBASSETSW": {
     "value": 5897262.0,
@@ -160,12 +160,12 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 96.16,
-    "updated": "2026-09-29"
+    "value": 96.24,
+    "updated": "2026-10-06"
   },
   "DCOILBRENTEU": {
-    "value": 113.96,
-    "updated": "2026-09-29"
+    "value": 125.44,
+    "updated": "2026-10-06"
   },
   "PCOPPUSDM": {
     "value": 13542.82086956522,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 15.52,
-    "updated": "2026-10-05"
+    "value": 15.01,
+    "updated": "2026-10-06"
   },
   "DTWEXBGS": {
     "value": 121.3848,
     "updated": "2026-10-02"
   },
   "NIKKEI225": {
-    "value": 70683.98,
-    "updated": "2026-10-06"
+    "value": 70035.71,
+    "updated": "2026-10-07"
   },
   "SHCOMP": {
     "value": null,
