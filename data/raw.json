@@ -24,20 +24,20 @@
     "updated": "2026-10-09"
   },
   "WALCL": {
-    "value": 6747560.0,
-    "updated": "2026-10-07"
+    "value": 6755639.0,
+    "updated": "2026-10-14"
   },
   "RESBALNS": {
     "value": 2799.719,
     "updated": "2020-08-01"
   },
   "WTREGEN": {
-    "value": 880253.0,
-    "updated": "2026-10-07"
+    "value": 883373.0,
+    "updated": "2026-10-14"
   },
   "RRPONTSYD": {
-    "value": 0.275,
-    "updated": "2026-10-13"
+    "value": 1.201,
+    "updated": "2026-10-15"
   },
   "EFFR": {
     "value": 3.88,
@@ -60,24 +60,24 @@
     "updated": null
   },
   "CPIAUCSL": {
-    "value": 334.131,
-    "updated": "2026-08-01"
+    "value": 336.298,
+    "updated": "2026-09-01"
   },
   "CPILFESL": {
-    "value": 337.765,
-    "updated": "2026-08-01"
+    "value": 338.896,
+    "updated": "2026-09-01"
   },
   "CUSR0000SAS": {
-    "value": 433.15,
-    "updated": "2026-08-01"
+    "value": 434.691,
+    "updated": "2026-09-01"
   },
   "CUSR0000SEHA": {
-    "value": 449.321,
-    "updated": "2026-08-01"
+    "value": 450.429,
+    "updated": "2026-09-01"
   },
   "PPIFDG": {
-    "value": 158.988,
-    "updated": "2026-08-01"
+    "value": 162.371,
+    "updated": "2026-09-01"
   },
   "PCEPI": {
     "value": 131.579,
@@ -104,12 +104,12 @@
     "updated": "2026-09-01"
   },
   "ICSA": {
-    "value": 197000.0,
-    "updated": "2026-10-03"
+    "value": 199000.0,
+    "updated": "2026-10-10"
   },
   "CCSA": {
-    "value": 1716000.0,
-    "updated": "2026-09-26"
+    "value": 1710000.0,
+    "updated": "2026-10-03"
   },
   "JTSJOL": {
     "value": 7079.0,
@@ -124,8 +124,8 @@
     "updated": "2026-08-01"
   },
   "RSXFS": {
-    "value": 646347.0,
-    "updated": "2026-08-01"
+    "value": 652115.0,
+    "updated": "2026-09-01"
   },
   "NAPMPI": {
     "value": null,
@@ -137,7 +137,7 @@
   },
   "MORTGAGE30US": {
     "value": 7.4,
-    "updated": "2026-10-08"
+    "updated": "2026-10-15"
   },
   "HOUST": {
     "value": 1275.0,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.5,
-    "updated": "2026-10-13"
+    "updated": "2026-10-15"
   },
   "IRSTCB01GBM156N": {
     "value": null,
