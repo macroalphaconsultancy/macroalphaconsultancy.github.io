@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.77,
-    "updated": "2026-10-19"
+    "value": 4.79,
+    "updated": "2026-10-20"
   },
   "DGS5": {
     "value": 4.94,
-    "updated": "2026-10-19"
+    "updated": "2026-10-20"
   },
   "DGS10": {
-    "value": 5.15,
-    "updated": "2026-10-19"
+    "value": 5.12,
+    "updated": "2026-10-20"
   },
   "DGS30": {
-    "value": 5.48,
-    "updated": "2026-10-19"
+    "value": 5.42,
+    "updated": "2026-10-20"
   },
   "DFII10": {
-    "value": 2.8,
-    "updated": "2026-10-19"
+    "value": 2.77,
+    "updated": "2026-10-20"
   },
   "THREEFYTP10": {
     "value": 0.9857,
@@ -160,32 +160,32 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 101.91,
-    "updated": "2026-10-14"
+    "value": 107.89,
+    "updated": "2026-10-20"
   },
   "DCOILBRENTEU": {
-    "value": 126.55,
-    "updated": "2026-10-14"
+    "value": 115.22,
+    "updated": "2026-10-20"
   },
   "PCOPPUSDM": {
     "value": 13542.82086956522,
     "updated": "2026-07-01"
   },
   "DHHNGSP": {
-    "value": 3.22,
-    "updated": "2026-10-14"
+    "value": 3.1,
+    "updated": "2026-10-20"
   },
   "SP500": {
-    "value": 7712.57,
-    "updated": "2026-10-20"
+    "value": 7757.17,
+    "updated": "2026-10-21"
   },
   "SP500REAL": {
     "value": null,
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 26424.82,
-    "updated": "2026-10-20"
+    "value": 26702.86,
+    "updated": "2026-10-21"
   },
   "RUT": {
     "value": null,
