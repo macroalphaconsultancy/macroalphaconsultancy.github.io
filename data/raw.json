@@ -160,12 +160,12 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 99.64,
-    "updated": "2026-11-03"
+    "value": 89.62,
+    "updated": "2026-11-11"
   },
   "DCOILBRENTEU": {
-    "value": 107.03,
-    "updated": "2026-11-03"
+    "value": 92.14,
+    "updated": "2026-11-11"
   },
   "PCOPPUSDM": {
     "value": 14473.05590909091,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 25466.19,
-    "updated": "2026-11-11"
+    "value": 25366.09,
+    "updated": "2026-11-12"
   },
   "RUT": {
     "value": null,
