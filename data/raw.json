@@ -36,8 +36,8 @@
     "updated": "2026-11-11"
   },
   "RRPONTSYD": {
-    "value": 0.25,
-    "updated": "2026-11-12"
+    "value": 0.325,
+    "updated": "2026-11-13"
   },
   "EFFR": {
     "value": 3.88,
@@ -76,8 +76,8 @@
     "updated": "2026-10-01"
   },
   "PPIFDG": {
-    "value": 162.371,
-    "updated": "2026-09-01"
+    "value": 162.173,
+    "updated": "2026-10-01"
   },
   "PCEPI": {
     "value": 132.257,
@@ -265,7 +265,7 @@
   },
   "ECBDFR": {
     "value": 2.5,
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "IRSTCB01GBM156N": {
     "value": null,
