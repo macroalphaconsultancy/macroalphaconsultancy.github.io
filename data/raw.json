@@ -44,8 +44,8 @@
     "updated": "2026-11-18"
   },
   "SOFR": {
-    "value": 3.9,
-    "updated": "2026-11-18"
+    "value": 3.91,
+    "updated": "2026-11-19"
   },
   "ECBASSETSW": {
     "value": 5906258.0,
@@ -184,8 +184,8 @@
     "updated": null
   },
   "NASDAQCOM": {
-    "value": 24429.88,
-    "updated": "2026-11-18"
+    "value": 23879.2,
+    "updated": "2026-11-19"
   },
   "RUT": {
     "value": null,
@@ -204,8 +204,8 @@
     "updated": "2026-11-13"
   },
   "NIKKEI225": {
-    "value": 59444.21,
-    "updated": "2026-11-19"
+    "value": 56436.65,
+    "updated": "2026-11-20"
   },
   "SHCOMP": {
     "value": null,
