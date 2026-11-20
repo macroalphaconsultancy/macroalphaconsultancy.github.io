@@ -1,23 +1,23 @@
 {
   "DGS2": {
-    "value": 4.8,
-    "updated": "2026-11-18"
+    "value": 4.76,
+    "updated": "2026-11-19"
   },
   "DGS5": {
-    "value": 4.89,
-    "updated": "2026-11-18"
+    "value": 4.86,
+    "updated": "2026-11-19"
   },
   "DGS10": {
-    "value": 5.07,
-    "updated": "2026-11-18"
+    "value": 5.04,
+    "updated": "2026-11-19"
   },
   "DGS30": {
-    "value": 5.41,
-    "updated": "2026-11-18"
+    "value": 5.4,
+    "updated": "2026-11-19"
   },
   "DFII10": {
     "value": 2.88,
-    "updated": "2026-11-18"
+    "updated": "2026-11-19"
   },
   "THREEFYTP10": {
     "value": 0.9864,
@@ -41,7 +41,7 @@
   },
   "EFFR": {
     "value": 3.88,
-    "updated": "2026-11-18"
+    "updated": "2026-11-19"
   },
   "SOFR": {
     "value": 3.91,
@@ -176,8 +176,8 @@
     "updated": "2026-11-17"
   },
   "SP500": {
-    "value": 7323.63,
-    "updated": "2026-11-18"
+    "value": 7175.83,
+    "updated": "2026-11-19"
   },
   "SP500REAL": {
     "value": null,
@@ -196,8 +196,8 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 24.56,
-    "updated": "2026-11-18"
+    "value": 28.44,
+    "updated": "2026-11-19"
   },
   "DTWEXBGS": {
     "value": 122.6503,
