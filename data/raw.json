@@ -1,23 +1,23 @@
 {
   "DGS2": {
     "value": 4.63,
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   "DGS5": {
-    "value": 4.74,
-    "updated": "2026-11-23"
+    "value": 4.69,
+    "updated": "2026-11-24"
   },
   "DGS10": {
-    "value": 4.92,
-    "updated": "2026-11-23"
+    "value": 4.91,
+    "updated": "2026-11-24"
   },
   "DGS30": {
-    "value": 5.29,
-    "updated": "2026-11-23"
+    "value": 5.3,
+    "updated": "2026-11-24"
   },
   "DFII10": {
     "value": 2.79,
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   "THREEFYTP10": {
     "value": 0.8888,
@@ -41,11 +41,11 @@
   },
   "EFFR": {
     "value": 3.88,
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   "SOFR": {
-    "value": 3.92,
-    "updated": "2026-11-23"
+    "value": 3.94,
+    "updated": "2026-11-24"
   },
   "ECBASSETSW": {
     "value": 5923063.0,
@@ -160,24 +160,24 @@
     "updated": null
   },
   "DCOILWTICO": {
-    "value": 89.53,
-    "updated": "2026-11-17"
+    "value": 82.24,
+    "updated": "2026-11-24"
   },
   "DCOILBRENTEU": {
-    "value": 92.94,
-    "updated": "2026-11-17"
+    "value": 91.8,
+    "updated": "2026-11-24"
   },
   "PCOPPUSDM": {
     "value": 14473.05590909091,
     "updated": "2026-09-01"
   },
   "DHHNGSP": {
-    "value": 3.1,
-    "updated": "2026-11-17"
+    "value": 3.3,
+    "updated": "2026-11-24"
   },
   "SP500": {
-    "value": 7237.17,
-    "updated": "2026-11-23"
+    "value": 7201.09,
+    "updated": "2026-11-24"
   },
   "SP500REAL": {
     "value": null,
@@ -196,16 +196,16 @@
     "updated": null
   },
   "VIXCLS": {
-    "value": 26.62,
-    "updated": "2026-11-23"
+    "value": 26.36,
+    "updated": "2026-11-24"
   },
   "DTWEXBGS": {
     "value": 123.5978,
     "updated": "2026-11-20"
   },
   "NIKKEI225": {
-    "value": 56436.65,
-    "updated": "2026-11-20"
+    "value": 57011.62,
+    "updated": "2026-11-25"
   },
   "SHCOMP": {
     "value": null,
